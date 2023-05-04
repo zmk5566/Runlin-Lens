@@ -19,7 +19,9 @@
 }
 
 
-
+h1{
+  color: black;
+}
 
 
 
@@ -29,12 +31,40 @@
   stroke-width: 1.5px;
 }
 
+#map { height: 400px;width:100% }
 
 
 #tree{
   width: 600px;
+  height: 100%;
   background: aliceblue;
-
 }
 
+#center{
+  background: aliceblue;
+  width:600px;
+}
 
+.read_text{
+  background: aliceblue;
+  color: #000000af;
+  font-size: 1.5em;
+  width: 600px;
+  height: 1000px;
+  margin:10px;
+  overflow:auto;
+}
+
+.flex-container {
+  width: 100vw;
+  display: flex;
+  align-items: stretch;
+  background-color: #f1f1f1;
+}
+
+.flex-container > div {
+  color: white;
+  text-align: center;
+  line-height: auto;
+
+}

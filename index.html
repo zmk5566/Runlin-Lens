@@ -5,120 +5,46 @@
 <head>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/d3/3.3.10/d3.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.6.4.slim.min.js"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/addons/p5.sound.min.js"></script>
-
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.1/leaflet.js"></script>
 <link rel="stylesheet" href="css/style.css"> 
-<title>P5.js</title>
+<title>人生南北多歧路v0.1 RulinLen</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
 
 
+<img id="img_0" width="600" height="500" src="./data/maps/0.jpg" style="display: none;">
+<img id="img_1" width="600" height="500" src="./data/maps/1.jpg"  style="display: none;">
+<img id="img_2" width="600" height="500" src="./data/maps/2.jpg"  style="display: none;">
+<img id="img_3" width="600" height="500" src="./data/maps/3.jpg"  style="display: none;">
+<img id="img_4" width="600" height="500" src="./data/maps/4.jpg"  style="display: none;">
+<img id="img_5" width="600" height="500" src="./data/maps/5.jpg"  style="display: none;">
+<img id="img_6" width="600" height="500" src="./data/maps/6.jpg"  style="display: none;">
 
-</style>
 </head>
 <body>
-  <div id="tree">
   <div class="flex-container">
     <div style="flex-grow: 1" id="tree">
     </div>
-    <div style="flex-grow: 2">
-      <main>
-      </main>
+    <div style="flex-grow: 2" id="center">
+      <canvas id="myCanvas" width="600" height="500" style="border:1px solid #d3d3d3;"> </canvas>
+      <div id ="control_panel">
+        <button id="button" onclick="prev_chapter()">上回</button>
+        <button id="button" onclick="update_chapter()">在哪</button>
+        <button id="button" onclick="next_chapter()">下回</button>
+    </div>
+
+    <div id="map"></div>
+    <h1>人生南北多歧路v0.1 RulinLens</h1>
+
     </div>
     <div style="flex-grow: 1">
-      <div class="read_text" style="overflow-x: auto; height:400px">
-        Profile photo for Boutheïna Ben Sedrine
-        Boutheïna Ben Sedrine
-        ·
-        Follow
-        I prefer texts over phone calls.6y
-        
-        Because
-        
-        When I write/read
-        
-        I prefer
-        
-        To send/get
-        
-        One text message
-        
-        Instead of
-        
-        Multiple
-        
-        Messages.
-        
-        And
-        
-        It's better, I meant when
-        
-        You
-        
-        Look
-        
-        At
-        
-        It.
-        
-        Writing this alone killed some of my brain cells.
-        
-        If you're talking about long messages in general, then I don't know.. Maybe people have a lot to say?
-        Profile photo for Sandi Adkins
-        Sandi Adkins
-        ·
-        Follow
-        Educated in Abnormal Psychology. Degrees and certificates. first hand exp.6y
-        
-        A lot of people write long texts. Freaky? This needs more expansion or clarification. And also, it would help to ask them why. There are some simple answers, some may have nothing better to do, some may feel the need to explain themselves, some may think it an inappropriate time to call with lengthy diatribes or questions, comments. Then again, some people may be this way, and at some point it’s a matter of what you can tolerate. To me it doesn’t matter.
-        Profile photo for Bunnie Hartley
-        Bunnie Hartley
-        ·
-        Follow
-        6mo
-        
-        They haven't had real conversation in long time. Or especially in person. People used talk on the phone for hours. I work the nightshift and it's dead silence almost every night, my coworkers don't really like me. So I end block texting , I get so excited to talk my friends about the crazy stuff that happens that end up texting a letter on a simple response, and usually get ignored before I get to tell them what I actually wanted to…
-        Related questions
-        Every time I text someone, I write lengthy messages. Does this correlate to overthinking too much? And why do I always end up writing too much when I only wanted to say one simple thing in the first place?
-        Why do people respond badly to long texts?
-        When do guys send long texts?
-        Profile photo for James Jusseaume
-        James Jusseaume
-        ·
-        Follow
-        Service Manager at Starr Restaurants (2019–present)4y
-        
-        I kind of get where the question is coming from. I personally think, if you got lots to say, pick up the phone and talk about it. I stand behind the idea that texts were meant for short handed communication. There’s a reason why orinaginally text messages were only 120 characters.
-        
-        Again: this is just my opinion, you’re entitled to your own.
-        Profile photo for Castaldo Orlando
-        Castaldo Orlando
-        ·
-        Follow
-        Studied at SOAS University of London (Graduated 1998)Updated 2y
-        Related
-        Every time I text someone, I write lengthy messages. Does this correlate to overthinking too much? And why do I always end up writing too much when I only wanted to say one simple thing in the first place?
-        
-        Phone texting (and email) are replacing what has been for at least a couple of centuries the letter writing. As these letters (written on paper) were usually laborious and ample (if less frequent than SMSing) it has somehow remained our habit to text lengthier missives instead of telegram like texting. It's a subconscious thing. That's why we tend to write long text messages which is something perfectly benign (there once was such a thing like a billlet amoureux). There's nothing wrong with writing too much unless the person who you write to resents it, case in which it is slightly selfish and… (more)
-        Profile photo for Sonia
-        Sonia
-        ·
-        Follow
-        living in Indonesia, Ordinary finance staff5y
-        Related
-        Why is it taboo to send long text messages?
-        
-        I never heard there is taboo thing about sending long text message until I see this question, I dont know if in other place of this world sending long text message becoming an issue.
-        
-        I like to read long text message either sending one. We can valued the personalities of people by looking how they send a text message through the structure of sentences and word they choose in sending texts.
-        Profile photo for Emile Lin
-        Emile Lin
-        ·
-        Follow
-        Works at The Ohio State University7y
+      <div class="read_text">
+        <a id="text_content">
+
+        </a>
     </div>
   </div> 
 </body>
@@ -127,6 +53,8 @@
 
 <div class="footer">
   <script src="js/sketch.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBM9zdaFmAwdt3Nzx7rSyU_r7DdscdiD6s&callback=initMap"defer></script>
+
   <script type="text/javascript" src="js/dataLoader.js"></script>
   <script type="text/javascript" src="js/main.js"></script>
 </div>

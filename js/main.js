@@ -1,11 +1,12 @@
 var treeData = [pubs];
 
 var circle_size = 18;
+var reach_out = 100;
   
   // ************** Generate the tree diagram	 *****************
   var margin = {top: 60, right: 30, bottom: 60, left: 30}
   var width = 600 - margin.right - margin.left
-  var height = 1200 - margin.top - margin.bottom;
+  var height = 1000 - margin.top - margin.bottom;
   var duration = 2000;
   var nextId = 0;
   
@@ -32,7 +33,7 @@ var circle_size = 18;
     var links = tree.links(nodes);
     
     // Normalize for fixed-depth.
-    nodes.forEach(function(d) { d.y = d.depth * 140; });
+    nodes.forEach(function(d) { d.y = d.depth * reach_out; });
     
     // Label nodes and links
     var allNodes = svg.selectAll("g.node")
