@@ -1,0 +1,8 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+贵县,1,355,hvd_420,http://maps.cga.harvard.edu/tgaz/placename/hvd_420,CHGIS,贵县,Gui Xian,1820,1820,POINT,109.60843999999999,23.09909,县,xian,hvd_9564,浔州府,Xunzhou Fu
+五河县,1,1592,hvd_1700,http://maps.cga.harvard.edu/tgaz/placename/hvd_1700,CHGIS,五河县,Wuhe Xian,1820,1820,POINT,117.88253,33.13974,县,xian,hvd_9783,泗州,Si Zhou
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+上关,1,9214,hvd_22430,http://maps.cga.harvard.edu/tgaz/placename/hvd_22430,CHGIS,上关,Shangguan,1820,1820,POINT,100.12201999999999,25.92016,村镇,cun zhen,hvd_9753,大理府,Dali Fu
+贵州,1,10922,hvd_25002,http://maps.cga.harvard.edu/tgaz/placename/hvd_25002,CHGIS,贵州,Guizhou,1820,1820,POINT,106.70911000000001,26.580779999999997,省,sheng,\N,\N,\N
+南京,7,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+无为州,8,1606,hvd_1714,http://maps.cga.harvard.edu/tgaz/placename/hvd_1714,CHGIS,无为州,Wuwei Zhou,1820,1820,POINT,117.91131999999999,31.29852,州,zhou,hvd_9776,庐州府,Luzhou Fu

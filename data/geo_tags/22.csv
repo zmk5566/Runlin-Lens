@@ -1,0 +1,13 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+安东县,1,696,hvd_761,http://maps.cga.harvard.edu/tgaz/placename/hvd_761,CHGIS,安东县,Andong Xian,1820,1820,POINT,119.26123,33.76637,县,xian,hvd_9632,淮安府,Huai'an Fu
+江都县,1,707,hvd_772,http://maps.cga.harvard.edu/tgaz/placename/hvd_772,CHGIS,江都县,Jiangdu Xian,1820,1820,POINT,119.43718999999999,32.39127,县,xian,hvd_9634,扬州府,Yangzhou Fu
+淮安府,1,2110,hvd_9632,http://maps.cga.harvard.edu/tgaz/placename/hvd_9632,CHGIS,淮安府,Huai'an Fu,1820,1820,POINT,119.14111000000001,33.502790000000005,府,fu,hvd_30035,江苏省,Jiangsu Sheng
+斗米,1,2950,hvd_16164,http://maps.cga.harvard.edu/tgaz/placename/hvd_16164,CHGIS,斗米,Doumi,1820,1820,POINT,120.14832,26.71363,村镇,cun zhen,hvd_32019,福宁府,Funing Fu
+小桥,1,4066,hvd_17280,http://maps.cga.harvard.edu/tgaz/placename/hvd_17280,CHGIS,小桥,Xiaoqiao,1820,1820,POINT,109.66707,18.26287,村镇,cun zhen,hvd_9556,琼州府,Qiongzhou Fu
+中和,1,5198,hvd_18412,http://maps.cga.harvard.edu/tgaz/placename/hvd_18412,CHGIS,中和,Zhonghe,1820,1820,POINT,114.62222,31.080709999999996,村镇,cun zhen,hvd_9612,黄州府,Huangzhou Fu
+仁和,1,5825,hvd_19039,http://maps.cga.harvard.edu/tgaz/placename/hvd_19039,CHGIS,仁和,Renhe,1820,1820,POINT,119.81812,34.03369,村镇,cun zhen,hvd_9632,淮安府,Huai'an Fu
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+黄泥,1,10666,hvd_24054,http://maps.cga.harvard.edu/tgaz/placename/hvd_24054,CHGIS,黄泥,Huangni,1820,1820,POINT,120.81575,30.51888,村镇,cun zhen,hvd_40075,海盐县,Haiyan Xian
+新安,1,10780,hvd_24168,http://maps.cga.harvard.edu/tgaz/placename/hvd_24168,CHGIS,新安,Xin'an,1820,1820,POINT,120.14666000000001,31.78967,村镇,cun zhen,hvd_40460,阳湖县,Yanghu Xian
+南京,1,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+京师,1,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

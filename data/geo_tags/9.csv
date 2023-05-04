@@ -1,0 +1,9 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+拜的,1,1416,hvd_1481,http://maps.cga.harvard.edu/tgaz/placename/hvd_1481,CHGIS,拜的,Baide,1820,1820,POINT,90.4287,29.125190000000003,宗,zong,hvd_25016,西藏,Xizang
+板桥,1,3522,hvd_16736,http://maps.cga.harvard.edu/tgaz/placename/hvd_16736,CHGIS,板桥,Banqiao,1820,1820,POINT,107.97205,35.90012,村镇,cun zhen,hvd_9537,庆阳府,Qingyang Fu
+斗米,2,2950,hvd_16164,http://maps.cga.harvard.edu/tgaz/placename/hvd_16164,CHGIS,斗米,Doumi,1820,1820,POINT,120.14832,26.71363,村镇,cun zhen,hvd_32019,福宁府,Funing Fu
+永乐,2,7612,hvd_20828,http://maps.cga.harvard.edu/tgaz/placename/hvd_20828,CHGIS,永乐,Yongle,1820,1820,POINT,112.056,36.148,村镇,cun zhen,hvd_9690,平阳府,Pingyang Fu
+三道,3,6578,hvd_19794,http://maps.cga.harvard.edu/tgaz/placename/hvd_19794,CHGIS,三道,Sandao,1820,1820,POINT,109.09618999999999,37.60031,村镇,cun zhen,hvd_9667,榆林府,Yulin Fu
+通,3,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+新市镇,5,3547,hvd_16761,http://maps.cga.harvard.edu/tgaz/placename/hvd_16761,CHGIS,新市镇,Xinshizhen,1820,1820,POINT,104.63888,34.64597,村镇,cun zhen,hvd_9538,巩昌府,Gongchang Fu
+新市,5,5553,hvd_18767,http://maps.cga.harvard.edu/tgaz/placename/hvd_18767,CHGIS,新市,Xinshi,1820,1820,POINT,113.14713,28.80883,村镇,cun zhen,hvd_9621,长沙府,Changsha Fu

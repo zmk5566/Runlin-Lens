@@ -1,0 +1,7 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+里仁,1,4134,hvd_17348,http://maps.cga.harvard.edu/tgaz/placename/hvd_17348,CHGIS,里仁,Liren,1820,1820,POINT,105.37685,24.76162,村镇,cun zhen,hvd_9558,泗城府,Sicheng Fu
+极高,1,6110,hvd_19324,http://maps.cga.harvard.edu/tgaz/placename/hvd_19324,CHGIS,极高,Jigao,1820,1820,POINT,117.08819,27.32405,村镇,cun zhen,hvd_9647,建昌府,Jianchang Fu
+南京,1,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+通,2,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+五河县,3,1592,hvd_1700,http://maps.cga.harvard.edu/tgaz/placename/hvd_1700,CHGIS,五河县,Wuhe Xian,1820,1820,POINT,117.88253,33.13974,县,xian,hvd_9783,泗州,Si Zhou
+方家,5,10066,hvd_23454,http://maps.cga.harvard.edu/tgaz/placename/hvd_23454,CHGIS,方家,Fangjia,1820,1820,POINT,120.31709,30.356309999999997,村镇,cun zhen,hvd_40081,仁和县,Renhe Xian

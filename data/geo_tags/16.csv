@@ -1,0 +1,8 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+贵县,1,355,hvd_420,http://maps.cga.harvard.edu/tgaz/placename/hvd_420,CHGIS,贵县,Gui Xian,1820,1820,POINT,109.60843999999999,23.09909,县,xian,hvd_9564,浔州府,Xunzhou Fu
+金龙,1,1386,hvd_1451,http://maps.cga.harvard.edu/tgaz/placename/hvd_1451,CHGIS,金龙,Jinlong,1820,1820,POINT,87.84124,28.45423,宗,zong,hvd_25016,西藏,Xizang
+西湖,1,3132,hvd_16346,http://maps.cga.harvard.edu/tgaz/placename/hvd_16346,CHGIS,西湖,Xihu,1820,1820,POINT,93.69923,40.34418,村镇,cun zhen,hvd_9530,安西州,Anxi Zhou
+公馆,1,3988,hvd_17202,http://maps.cga.harvard.edu/tgaz/placename/hvd_17202,CHGIS,公馆,Gongguan,1820,1820,POINT,109.60718999999999,21.79666,村镇,cun zhen,hvd_9553,廉州府,Lianzhou Fu
+敦敦,1,6239,hvd_19453,http://maps.cga.harvard.edu/tgaz/placename/hvd_19453,CHGIS,敦敦,Dundun,1820,1820,POINT,136.4758,49.347570000000005,村镇,cun zhen,hvd_9651,三姓,Sanxing
+铁灯盏,2,2365,hvd_15579,http://maps.cga.harvard.edu/tgaz/placename/hvd_15579,CHGIS,铁灯盏,Tiedengzhan,1820,1820,POINT,115.5846,38.39116,村镇,cun zhen,hvd_9506,保定府,Baoding Fu
+通,2,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili

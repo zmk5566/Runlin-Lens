@@ -1,0 +1,10 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+板桥,1,3522,hvd_16736,http://maps.cga.harvard.edu/tgaz/placename/hvd_16736,CHGIS,板桥,Banqiao,1820,1820,POINT,107.97205,35.90012,村镇,cun zhen,hvd_9537,庆阳府,Qingyang Fu
+上楼,1,9121,hvd_22337,http://maps.cga.harvard.edu/tgaz/placename/hvd_22337,CHGIS,上楼,Shanglou,1820,1820,POINT,98.51997,26.04351,村镇,cun zhen,hvd_9750,腾越厅,Tengyue Ting
+灵隐,1,10062,hvd_23450,http://maps.cga.harvard.edu/tgaz/placename/hvd_23450,CHGIS,灵隐,Lingyin,1820,1820,POINT,120.08273,30.24503,村镇,cun zhen,hvd_40079,钱塘县,Qiantang Xian
+吴山,1,10187,hvd_23575,http://maps.cga.harvard.edu/tgaz/placename/hvd_23575,CHGIS,吴山,Wushan,1820,1820,POINT,119.23100000000001,29.2904,村镇,cun zhen,hvd_40819,寿昌县,Shouchang Xian
+石桥,2,4938,hvd_18152,http://maps.cga.harvard.edu/tgaz/placename/hvd_18152,CHGIS,石桥,Shiqiao,1820,1820,POINT,112.61277,33.17732,村镇,cun zhen,hvd_9599,南阳府,Nanyang Fu
+花园,2,5182,hvd_18396,http://maps.cga.harvard.edu/tgaz/placename/hvd_18396,CHGIS,花园,Huayuan,1820,1820,POINT,113.97325,31.248490000000004,村镇,cun zhen,hvd_9611,汉阳府,Hanyang Fu
+极高,3,6110,hvd_19324,http://maps.cga.harvard.edu/tgaz/placename/hvd_19324,CHGIS,极高,Jigao,1820,1820,POINT,117.08819,27.32405,村镇,cun zhen,hvd_9647,建昌府,Jianchang Fu
+大庙,4,2472,hvd_15686,http://maps.cga.harvard.edu/tgaz/placename/hvd_15686,CHGIS,大庙,Damiao,1820,1820,POINT,118.29146000000001,42.39078,村镇,cun zhen,hvd_9510,承德府,Chengde Fu
+西湖,8,3132,hvd_16346,http://maps.cga.harvard.edu/tgaz/placename/hvd_16346,CHGIS,西湖,Xihu,1820,1820,POINT,93.69923,40.34418,村镇,cun zhen,hvd_9530,安西州,Anxi Zhou

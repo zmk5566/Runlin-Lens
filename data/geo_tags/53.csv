@@ -1,0 +1,11 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+太平府,1,2046,hvd_9568,http://maps.cga.harvard.edu/tgaz/placename/hvd_9568,CHGIS,太平府,Taiping Fu,1820,1820,POINT,107.3448,22.44625,府,fu,hvd_25055,广西,Guangxi
+板桥,1,3522,hvd_16736,http://maps.cga.harvard.edu/tgaz/placename/hvd_16736,CHGIS,板桥,Banqiao,1820,1820,POINT,107.97205,35.90012,村镇,cun zhen,hvd_9537,庆阳府,Qingyang Fu
+那晓,1,4286,hvd_17500,http://maps.cga.harvard.edu/tgaz/placename/hvd_17500,CHGIS,那晓,Naxiao,1820,1820,POINT,108.42249,22.31298,村镇,cun zhen,hvd_9566,南宁府,Nanning Fu
+花园,1,5182,hvd_18396,http://maps.cga.harvard.edu/tgaz/placename/hvd_18396,CHGIS,花园,Huayuan,1820,1820,POINT,113.97325,31.248490000000004,村镇,cun zhen,hvd_9611,汉阳府,Hanyang Fu
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+长板桥,1,10489,hvd_23877,http://maps.cga.harvard.edu/tgaz/placename/hvd_23877,CHGIS,长板桥,Changbanqiao,1820,1820,POINT,120.6296,31.12443,村镇,cun zhen,hvd_40416,震泽县,Zhenze Xian
+太平,2,3704,hvd_16918,http://maps.cga.harvard.edu/tgaz/placename/hvd_16918,CHGIS,太平,Taiping,1820,1820,POINT,113.83549,24.594479999999997,村镇,cun zhen,hvd_9545,韶州府,Shaozhou Fu
+那陈,2,3868,hvd_17082,http://maps.cga.harvard.edu/tgaz/placename/hvd_17082,CHGIS,那陈,Nachen,1820,1820,POINT,108.28277,22.45899,村镇,cun zhen,hvd_9553,廉州府,Lianzhou Fu
+宫里,2,7222,hvd_20438,http://maps.cga.harvard.edu/tgaz/placename/hvd_20438,CHGIS,宫里,Gongli,1820,1820,POINT,117.42249,35.916129999999995,村镇,cun zhen,hvd_9674,泰安府,Tai'an Fu
+南京,5,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

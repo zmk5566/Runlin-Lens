@@ -1,0 +1,11 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+高要县,1,224,hvd_289,http://maps.cga.harvard.edu/tgaz/placename/hvd_289,CHGIS,高要县,Gaoyao Xian,1820,1820,POINT,112.45316000000001,23.05692,县,xian,hvd_9547,肇庆府,Zhaoqing Fu
+斗米,1,2950,hvd_16164,http://maps.cga.harvard.edu/tgaz/placename/hvd_16164,CHGIS,斗米,Doumi,1820,1820,POINT,120.14832,26.71363,村镇,cun zhen,hvd_32019,福宁府,Funing Fu
+封门,1,3753,hvd_16967,http://maps.cga.harvard.edu/tgaz/placename/hvd_16967,CHGIS,封门,Fengmen,1820,1820,POINT,111.42442,23.01386,村镇,cun zhen,hvd_9552,罗定州,Luoding Zhou
+东乡,1,4225,hvd_17439,http://maps.cga.harvard.edu/tgaz/placename/hvd_17439,CHGIS,东乡,Dongxiang,1820,1820,POINT,109.85613000000001,23.59875,村镇,cun zhen,hvd_9564,浔州府,Xunzhou Fu
+薛家集,1,5076,hvd_18290,http://maps.cga.harvard.edu/tgaz/placename/hvd_18290,CHGIS,薛家集,Xuejiaji,1820,1820,POINT,111.92533,32.43918,村镇,cun zhen,hvd_9604,襄阳府,Xiangyang Fu
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+前山,1,10219,hvd_23607,http://maps.cga.harvard.edu/tgaz/placename/hvd_23607,CHGIS,前山,Qianshan,1820,1820,POINT,119.33298,29.8045,村镇,cun zhen,hvd_40799,分水县,Fenshui Xian
+黄泥,1,10666,hvd_24054,http://maps.cga.harvard.edu/tgaz/placename/hvd_24054,CHGIS,黄泥,Huangni,1820,1820,POINT,120.81575,30.51888,村镇,cun zhen,hvd_40075,海盐县,Haiyan Xian
+汶上县,2,991,hvd_1056,http://maps.cga.harvard.edu/tgaz/placename/hvd_1056,CHGIS,汶上县,Wenshang Xian,1820,1820,POINT,116.48556,35.72985,县,xian,hvd_9676,兖州府,Yanzhou Fu
+广东,3,10972,hvd_25054,http://maps.cga.harvard.edu/tgaz/placename/hvd_25054,CHGIS,广东,Guangdong,1820,1820,POINT,113.25607,23.13462,省,sheng,\N,\N,\N

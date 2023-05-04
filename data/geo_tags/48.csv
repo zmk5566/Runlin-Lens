@@ -1,0 +1,6 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+西湖,1,3132,hvd_16346,http://maps.cga.harvard.edu/tgaz/placename/hvd_16346,CHGIS,西湖,Xihu,1820,1820,POINT,93.69923,40.34418,村镇,cun zhen,hvd_9530,安西州,Anxi Zhou
+京水,1,4884,hvd_18098,http://maps.cga.harvard.edu/tgaz/placename/hvd_18098,CHGIS,京水,Jingshui,1820,1820,POINT,113.65502,34.89696,村镇,cun zhen,hvd_9597,开封府,Kaifeng Fu
+徽州府,2,2259,hvd_9788,http://maps.cga.harvard.edu/tgaz/placename/hvd_9788,CHGIS,徽州府,Huizhou Fu,1820,1820,POINT,118.43393999999999,29.86577,府,fu,hvd_25018,安徽,Anhui
+通,3,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+南京,8,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

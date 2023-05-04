@@ -1,0 +1,12 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+西安府,1,2137,hvd_9659,http://maps.cga.harvard.edu/tgaz/placename/hvd_9659,CHGIS,西安府,Xi'an Fu,1820,1820,POINT,108.94421000000001,34.26661,府,fu,hvd_25009,陕西,Shanxi
+铁山,1,5351,hvd_18565,http://maps.cga.harvard.edu/tgaz/placename/hvd_18565,CHGIS,铁山,Tieshan,1820,1820,POINT,114.88956999999999,30.21213,村镇,cun zhen,hvd_9613,武昌府,Wuchang Fu
+上楼,1,9121,hvd_22337,http://maps.cga.harvard.edu/tgaz/placename/hvd_22337,CHGIS,上楼,Shanglou,1820,1820,POINT,98.51997,26.04351,村镇,cun zhen,hvd_9750,腾越厅,Tengyue Ting
+江宁镇,1,10039,hvd_23427,http://maps.cga.harvard.edu/tgaz/placename/hvd_23427,CHGIS,江宁镇,Jiangningzhen,1820,1820,POINT,118.59563,31.863770000000002,村镇,cun zhen,hvd_40548,江宁县,Jiangning Xian
+江西,1,10927,hvd_25007,http://maps.cga.harvard.edu/tgaz/placename/hvd_25007,CHGIS,江西,Jiangxi,1820,1820,POINT,115.89771999999999,28.6749,省,sheng,\N,\N,\N
+高坡,2,3694,hvd_16908,http://maps.cga.harvard.edu/tgaz/placename/hvd_16908,CHGIS,高坡,Gaopo,1820,1820,POINT,113.42186000000001,24.27916,村镇,cun zhen,hvd_9545,韶州府,Shaozhou Fu
+通,2,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+四川,2,10933,hvd_25013,http://maps.cga.harvard.edu/tgaz/placename/hvd_25013,CHGIS,四川,Sichuan,1820,1820,POINT,104.07799999999999,30.65038,省,sheng,\N,\N,\N
+南京,2,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+红旗,4,2531,hvd_15745,http://maps.cga.harvard.edu/tgaz/placename/hvd_15745,CHGIS,红旗,Hong Qi,1820,1820,POINT,117.65486000000001,41.10601,村镇,cun zhen,hvd_9510,承德府,Chengde Fu
+金东,32,1443,hvd_1508,http://maps.cga.harvard.edu/tgaz/placename/hvd_1508,CHGIS,金东,Jindong,1820,1820,POINT,93.38463,28.975209999999997,宗,zong,hvd_25016,西藏,Xizang

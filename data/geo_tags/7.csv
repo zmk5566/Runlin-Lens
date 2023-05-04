@@ -1,0 +1,15 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+高要县,1,224,hvd_289,http://maps.cga.harvard.edu/tgaz/placename/hvd_289,CHGIS,高要县,Gaoyao Xian,1820,1820,POINT,112.45316000000001,23.05692,县,xian,hvd_9547,肇庆府,Zhaoqing Fu
+南昌县,1,729,hvd_794,http://maps.cga.harvard.edu/tgaz/placename/hvd_794,CHGIS,南昌县,Nanchang Xian,1820,1820,POINT,115.89771999999999,28.6749,县,xian,hvd_9641,南昌府,Nanchang Fu
+兖州府,1,2154,hvd_9676,http://maps.cga.harvard.edu/tgaz/placename/hvd_9676,CHGIS,兖州府,Yanzhou Fu,1820,1820,POINT,116.8237,35.5567,府,fu,hvd_25010,山东,Shandong
+京师,1,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+江南省,1,11034,hvd_30034,http://maps.cga.harvard.edu/tgaz/placename/hvd_30034,CHGIS,江南省,Jiangnan Sheng,1645,1666,POINT,118.76898999999999,32.05256,省,sheng,hvd_113648,清,Qing
+金东,3,1443,hvd_1508,http://maps.cga.harvard.edu/tgaz/placename/hvd_1508,CHGIS,金东,Jindong,1820,1820,POINT,93.38463,28.975209999999997,宗,zong,hvd_25016,西藏,Xizang
+那陈,3,3868,hvd_17082,http://maps.cga.harvard.edu/tgaz/placename/hvd_17082,CHGIS,那陈,Nachen,1820,1820,POINT,108.28277,22.45899,村镇,cun zhen,hvd_9553,廉州府,Lianzhou Fu
+江西,3,10927,hvd_25007,http://maps.cga.harvard.edu/tgaz/placename/hvd_25007,CHGIS,江西,Jiangxi,1820,1820,POINT,115.89771999999999,28.6749,省,sheng,\N,\N,\N
+山东,3,10930,hvd_25010,http://maps.cga.harvard.edu/tgaz/placename/hvd_25010,CHGIS,山东,Shandong,1820,1820,POINT,117.00148999999999,36.65013,省,sheng,\N,\N,\N
+四川,3,10933,hvd_25013,http://maps.cga.harvard.edu/tgaz/placename/hvd_25013,CHGIS,四川,Sichuan,1820,1820,POINT,104.07799999999999,30.65038,省,sheng,\N,\N,\N
+薛家集,4,5076,hvd_18290,http://maps.cga.harvard.edu/tgaz/placename/hvd_18290,CHGIS,薛家集,Xuejiaji,1820,1820,POINT,111.92533,32.43918,村镇,cun zhen,hvd_9604,襄阳府,Xiangyang Fu
+通,4,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+广东,4,10972,hvd_25054,http://maps.cga.harvard.edu/tgaz/placename/hvd_25054,CHGIS,广东,Guangdong,1820,1820,POINT,113.25607,23.13462,省,sheng,\N,\N,\N
+汶上县,5,991,hvd_1056,http://maps.cga.harvard.edu/tgaz/placename/hvd_1056,CHGIS,汶上县,Wenshang Xian,1820,1820,POINT,116.48556,35.72985,县,xian,hvd_9676,兖州府,Yanzhou Fu

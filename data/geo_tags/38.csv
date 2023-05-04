@@ -1,0 +1,14 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+芜湖县,1,1566,hvd_1674,http://maps.cga.harvard.edu/tgaz/placename/hvd_1674,CHGIS,芜湖县,Wuhu Xian,1820,1820,POINT,118.36261999999999,31.33495,县,xian,hvd_9777,太平府,Taiping Fu
+太平府,1,2046,hvd_9568,http://maps.cga.harvard.edu/tgaz/placename/hvd_9568,CHGIS,太平府,Taiping Fu,1820,1820,POINT,107.3448,22.44625,府,fu,hvd_25055,广西,Guangxi
+太平,1,3704,hvd_16918,http://maps.cga.harvard.edu/tgaz/placename/hvd_16918,CHGIS,太平,Taiping,1820,1820,POINT,113.83549,24.594479999999997,村镇,cun zhen,hvd_9545,韶州府,Shaozhou Fu
+三番,1,4258,hvd_17472,http://maps.cga.harvard.edu/tgaz/placename/hvd_17472,CHGIS,三番,Sanfan,1820,1820,POINT,111.5321,23.93589,村镇,cun zhen,hvd_9565,梧州府,Wuzhou Fu
+四川,1,10933,hvd_25013,http://maps.cga.harvard.edu/tgaz/placename/hvd_25013,CHGIS,四川,Sichuan,1820,1820,POINT,104.07799999999999,30.65038,省,sheng,\N,\N,\N
+成都府,2,2191,hvd_9713,http://maps.cga.harvard.edu/tgaz/placename/hvd_9713,CHGIS,成都府,Chengdu Fu,1820,1820,POINT,104.07799999999999,30.65038,府,fu,hvd_25013,四川,Sichuan
+通,2,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+东山,2,10491,hvd_23879,http://maps.cga.harvard.edu/tgaz/placename/hvd_23879,CHGIS,东山,Dongshan,1820,1820,POINT,120.39973,31.090429999999998,村镇,cun zhen,hvd_40409,太湖厅,Taihu Ting
+广东,2,10972,hvd_25054,http://maps.cga.harvard.edu/tgaz/placename/hvd_25054,CHGIS,广东,Guangdong,1820,1820,POINT,113.25607,23.13462,省,sheng,\N,\N,\N
+南京,2,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+京师,2,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+同官县,3,880,hvd_945,http://maps.cga.harvard.edu/tgaz/placename/hvd_945,CHGIS,同官县,Tongguan Xian,1820,1820,POINT,109.07423,35.13301,县,xian,hvd_9659,西安府,Xi'an Fu
+陕西,3,10929,hvd_25009,http://maps.cga.harvard.edu/tgaz/placename/hvd_25009,CHGIS,陕西,Shanxi,1820,1820,POINT,108.94421000000001,34.26661,省,sheng,\N,\N,\N

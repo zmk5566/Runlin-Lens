@@ -1,0 +1,8 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+安庆府,1,2251,hvd_9780,http://maps.cga.harvard.edu/tgaz/placename/hvd_9780,CHGIS,安庆府,Anqing Fu,1820,1820,POINT,117.03468000000001,30.512290000000004,府,fu,hvd_25018,安徽,Anhui
+黄泥,1,10666,hvd_24054,http://maps.cga.harvard.edu/tgaz/placename/hvd_24054,CHGIS,黄泥,Huangni,1820,1820,POINT,120.81575,30.51888,村镇,cun zhen,hvd_40075,海盐县,Haiyan Xian
+山东,1,10930,hvd_25010,http://maps.cga.harvard.edu/tgaz/placename/hvd_25010,CHGIS,山东,Shandong,1820,1820,POINT,117.00148999999999,36.65013,省,sheng,\N,\N,\N
+广东,1,10972,hvd_25054,http://maps.cga.harvard.edu/tgaz/placename/hvd_25054,CHGIS,广东,Guangdong,1820,1820,POINT,113.25607,23.13462,省,sheng,\N,\N,\N
+三道,2,6578,hvd_19794,http://maps.cga.harvard.edu/tgaz/placename/hvd_19794,CHGIS,三道,Sandao,1820,1820,POINT,109.09618999999999,37.60031,村镇,cun zhen,hvd_9667,榆林府,Yulin Fu
+南京,3,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+公馆,5,3988,hvd_17202,http://maps.cga.harvard.edu/tgaz/placename/hvd_17202,CHGIS,公馆,Gongguan,1820,1820,POINT,109.60718999999999,21.79666,村镇,cun zhen,hvd_9553,廉州府,Lianzhou Fu

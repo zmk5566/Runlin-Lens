@@ -15,11 +15,26 @@
 }
 
 .node text {
-  font: 10px sans-serif;
+  font: 1.2em sans-serif;
 }
+
+
+
+
+
 
 .link {
   fill: none;
   stroke: #ccc;
   stroke-width: 1.5px;
 }
+
+
+
+#tree{
+  width: 600px;
+  background: aliceblue;
+
+}
+
+

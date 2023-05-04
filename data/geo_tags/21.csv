@@ -1,0 +1,3 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+旧关,1,3601,hvd_16815,http://maps.cga.harvard.edu/tgaz/placename/hvd_16815,CHGIS,旧关,Jiuguan,1820,1820,POINT,104.59707,32.90455,村镇,cun zhen,hvd_9541,阶州,Jie Zhou
+通,3,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili

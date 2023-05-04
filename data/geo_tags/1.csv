@@ -1,0 +1,12 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+大塘,1,4602,hvd_17816,http://maps.cga.harvard.edu/tgaz/placename/hvd_17816,CHGIS,大塘,Datang,1820,1820,POINT,106.95526000000001,25.98079,村镇,cun zhen,hvd_9579,贵阳府,Guiyang Fu
+极高,1,6110,hvd_19324,http://maps.cga.harvard.edu/tgaz/placename/hvd_19324,CHGIS,极高,Jigao,1820,1820,POINT,117.08819,27.32405,村镇,cun zhen,hvd_9647,建昌府,Jianchang Fu
+安居,1,7194,hvd_20410,http://maps.cga.harvard.edu/tgaz/placename/hvd_20410,CHGIS,安居,Anju,1820,1820,POINT,116.48428,35.373290000000004,村镇,cun zhen,hvd_9677,济宁州,Jining Zhou
+向城,1,7283,hvd_20499,http://maps.cga.harvard.edu/tgaz/placename/hvd_20499,CHGIS,向城,Xiangcheng,1820,1820,POINT,117.93444,34.85371,村镇,cun zhen,hvd_9678,沂州府,Yizhou Fu
+文昌,1,10339,hvd_23727,http://maps.cga.harvard.edu/tgaz/placename/hvd_23727,CHGIS,文昌,Wenchang,1820,1820,POINT,119.19083,29.74029,村镇,cun zhen,hvd_40811,淳安县,Chun'an Xian
+河南,1,10924,hvd_25004,http://maps.cga.harvard.edu/tgaz/placename/hvd_25004,CHGIS,河南,Henan,1820,1820,POINT,114.34333000000001,34.78548,省,sheng,\N,\N,\N
+济南府,2,2151,hvd_9673,http://maps.cga.harvard.edu/tgaz/placename/hvd_9673,CHGIS,济南府,Jinan Fu,1820,1820,POINT,117.00148999999999,36.65013,府,fu,hvd_25010,山东,Shandong
+和州,2,2249,hvd_9778,http://maps.cga.harvard.edu/tgaz/placename/hvd_9778,CHGIS,和州,He Zhou,1820,1820,POINT,118.36112,31.71422,直隶州,zhi li zhou,hvd_25018,安徽,Anhui
+公馆,2,3988,hvd_17202,http://maps.cga.harvard.edu/tgaz/placename/hvd_17202,CHGIS,公馆,Gongguan,1820,1820,POINT,109.60718999999999,21.79666,村镇,cun zhen,hvd_9553,廉州府,Lianzhou Fu
+通,3,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+山东,3,10930,hvd_25010,http://maps.cga.harvard.edu/tgaz/placename/hvd_25010,CHGIS,山东,Shandong,1820,1820,POINT,117.00148999999999,36.65013,省,sheng,\N,\N,\N

@@ -1,0 +1,6 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+那扶,1,3903,hvd_17117,http://maps.cga.harvard.edu/tgaz/placename/hvd_17117,CHGIS,那扶,Nafu,1820,1820,POINT,112.39583999999999,22.08549,村镇,cun zhen,hvd_9549,广州府,Guangzhou Fu
+极高,1,6110,hvd_19324,http://maps.cga.harvard.edu/tgaz/placename/hvd_19324,CHGIS,极高,Jigao,1820,1820,POINT,117.08819,27.32405,村镇,cun zhen,hvd_9647,建昌府,Jianchang Fu
+山东,1,10930,hvd_25010,http://maps.cga.harvard.edu/tgaz/placename/hvd_25010,CHGIS,山东,Shandong,1820,1820,POINT,117.00148999999999,36.65013,省,sheng,\N,\N,\N
+江西,3,10927,hvd_25007,http://maps.cga.harvard.edu/tgaz/placename/hvd_25007,CHGIS,江西,Jiangxi,1820,1820,POINT,115.89771999999999,28.6749,省,sheng,\N,\N,\N
+京师,4,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

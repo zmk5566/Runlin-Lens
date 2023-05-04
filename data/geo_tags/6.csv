@@ -1,0 +1,7 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+十二都,1,3817,hvd_17031,http://maps.cga.harvard.edu/tgaz/placename/hvd_17031,CHGIS,十二都,Shi'erdu,1820,1820,POINT,115.65113000000001,23.725929999999998,村镇,cun zhen,hvd_9546,嘉应州,Jiaying Zhou
+田房,1,9489,hvd_22705,http://maps.cga.harvard.edu/tgaz/placename/hvd_22705,CHGIS,田房,Tianfang,1820,1820,POINT,103.7556,22.70685,村镇,cun zhen,hvd_9766,开化府,Kaihua Fu
+太阳,1,10137,hvd_23525,http://maps.cga.harvard.edu/tgaz/placename/hvd_23525,CHGIS,太阳,Taiyang,1820,1820,POINT,119.30112,30.194190000000003,村镇,cun zhen,hvd_40100,於潜县,Yuqian Xian
+四川,1,10933,hvd_25013,http://maps.cga.harvard.edu/tgaz/placename/hvd_25013,CHGIS,四川,Sichuan,1820,1820,POINT,104.07799999999999,30.65038,省,sheng,\N,\N,\N
+巢县,2,1564,hvd_1672,http://maps.cga.harvard.edu/tgaz/placename/hvd_1672,CHGIS,巢县,Chao Xian,1820,1820,POINT,117.86485,31.601740000000003,县,xian,hvd_9776,庐州府,Luzhou Fu
+高要县,3,224,hvd_289,http://maps.cga.harvard.edu/tgaz/placename/hvd_289,CHGIS,高要县,Gaoyao Xian,1820,1820,POINT,112.45316000000001,23.05692,县,xian,hvd_9547,肇庆府,Zhaoqing Fu

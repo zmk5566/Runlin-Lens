@@ -1,0 +1,14 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+贵县,1,355,hvd_420,http://maps.cga.harvard.edu/tgaz/placename/hvd_420,CHGIS,贵县,Gui Xian,1820,1820,POINT,109.60843999999999,23.09909,县,xian,hvd_9564,浔州府,Xunzhou Fu
+五河县,1,1592,hvd_1700,http://maps.cga.harvard.edu/tgaz/placename/hvd_1700,CHGIS,五河县,Wuhe Xian,1820,1820,POINT,117.88253,33.13974,县,xian,hvd_9783,泗州,Si Zhou
+凤阳府,1,2256,hvd_9785,http://maps.cga.harvard.edu/tgaz/placename/hvd_9785,CHGIS,凤阳府,Fengyang Fu,1820,1820,POINT,117.52367,32.8662,府,fu,hvd_25018,安徽,Anhui
+中和,1,5198,hvd_18412,http://maps.cga.harvard.edu/tgaz/placename/hvd_18412,CHGIS,中和,Zhonghe,1820,1820,POINT,114.62222,31.080709999999996,村镇,cun zhen,hvd_9612,黄州府,Huangzhou Fu
+三山,1,9646,hvd_22862,http://maps.cga.harvard.edu/tgaz/placename/hvd_22862,CHGIS,三山,Sanshan,1820,1820,POINT,121.24128999999999,30.174120000000002,村镇,cun zhen,hvd_32185,绍兴府,Shaoxing Fu
+方家,1,10066,hvd_23454,http://maps.cga.harvard.edu/tgaz/placename/hvd_23454,CHGIS,方家,Fangjia,1820,1820,POINT,120.31709,30.356309999999997,村镇,cun zhen,hvd_40081,仁和县,Renhe Xian
+竹林,1,10655,hvd_24043,http://maps.cga.harvard.edu/tgaz/placename/hvd_24043,CHGIS,竹林,Zhulin,1820,1820,POINT,120.90299999999999,30.673000000000002,村镇,cun zhen,hvd_40057,嘉兴县,Jiaxing Xian
+黄泥,1,10666,hvd_24054,http://maps.cga.harvard.edu/tgaz/placename/hvd_24054,CHGIS,黄泥,Huangni,1820,1820,POINT,120.81575,30.51888,村镇,cun zhen,hvd_40075,海盐县,Haiyan Xian
+京师,1,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+白水,2,6768,hvd_19984,http://maps.cga.harvard.edu/tgaz/placename/hvd_19984,CHGIS,白水,Baishui,1820,1820,POINT,106.07862,33.56436,村镇,cun zhen,hvd_9664,汉中府,Hanzhong Fu
+通,3,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+南京,4,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+汤镇,16,10065,hvd_23453,http://maps.cga.harvard.edu/tgaz/placename/hvd_23453,CHGIS,汤镇,Tangzhen,1820,1820,POINT,120.35831,30.366429999999998,村镇,cun zhen,hvd_40081,仁和县,Renhe Xian

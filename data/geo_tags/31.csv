@@ -1,0 +1,12 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+滁州,1,2257,hvd_9786,http://maps.cga.harvard.edu/tgaz/placename/hvd_9786,CHGIS,滁州,Chu Zhou,1820,1820,POINT,118.30416000000001,32.316990000000004,直隶州,zhi li zhou,hvd_25018,安徽,Anhui
+极高,1,6110,hvd_19324,http://maps.cga.harvard.edu/tgaz/placename/hvd_19324,CHGIS,极高,Jigao,1820,1820,POINT,117.08819,27.32405,村镇,cun zhen,hvd_9647,建昌府,Jianchang Fu
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+上关,1,9214,hvd_22430,http://maps.cga.harvard.edu/tgaz/placename/hvd_22430,CHGIS,上关,Shangguan,1820,1820,POINT,100.12201999999999,25.92016,村镇,cun zhen,hvd_9753,大理府,Dali Fu
+酒房,1,9434,hvd_22650,http://maps.cga.harvard.edu/tgaz/placename/hvd_22650,CHGIS,酒房,Jiufang,1820,1820,POINT,99.88046,22.416999999999998,村镇,cun zhen,hvd_9758,顺宁府,Shunning Fu
+乌衣镇,1,9863,hvd_23081,http://maps.cga.harvard.edu/tgaz/placename/hvd_23081,CHGIS,乌衣镇,Wuyizhen,1820,1820,POINT,118.4257,32.214620000000004,村镇,cun zhen,hvd_9786,滁州,Chu Zhou
+天长县,2,1601,hvd_1709,http://maps.cga.harvard.edu/tgaz/placename/hvd_1709,CHGIS,天长县,Tianchang Xian,1820,1820,POINT,118.99815,32.69052,县,xian,hvd_9783,泗州,Si Zhou
+江西,2,10927,hvd_25007,http://maps.cga.harvard.edu/tgaz/placename/hvd_25007,CHGIS,江西,Jiangxi,1820,1820,POINT,115.89771999999999,28.6749,省,sheng,\N,\N,\N
+赣州府,4,2128,hvd_9650,http://maps.cga.harvard.edu/tgaz/placename/hvd_9650,CHGIS,赣州府,Ganzhou Fu,1820,1820,POINT,114.93248,25.846999999999998,府,fu,hvd_25007,江西,Jiangxi
+花园,4,5182,hvd_18396,http://maps.cga.harvard.edu/tgaz/placename/hvd_18396,CHGIS,花园,Huayuan,1820,1820,POINT,113.97325,31.248490000000004,村镇,cun zhen,hvd_9611,汉阳府,Hanyang Fu
+南京,8,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

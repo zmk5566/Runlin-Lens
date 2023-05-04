@@ -1,0 +1,6 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+公馆,1,3988,hvd_17202,http://maps.cga.harvard.edu/tgaz/placename/hvd_17202,CHGIS,公馆,Gongguan,1820,1820,POINT,109.60718999999999,21.79666,村镇,cun zhen,hvd_9553,廉州府,Lianzhou Fu
+小桥,1,4066,hvd_17280,http://maps.cga.harvard.edu/tgaz/placename/hvd_17280,CHGIS,小桥,Xiaoqiao,1820,1820,POINT,109.66707,18.26287,村镇,cun zhen,hvd_9556,琼州府,Qiongzhou Fu
+马头,1,9839,hvd_23057,http://maps.cga.harvard.edu/tgaz/placename/hvd_23057,CHGIS,马头,Matou,1820,1820,POINT,116.54525,32.02554,村镇,cun zhen,hvd_9787,六安州,Liu'an Zhou
+通,2,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+南京,3,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

@@ -1,0 +1,4 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+新市镇,1,3547,hvd_16761,http://maps.cga.harvard.edu/tgaz/placename/hvd_16761,CHGIS,新市镇,Xinshizhen,1820,1820,POINT,104.63888,34.64597,村镇,cun zhen,hvd_9538,巩昌府,Gongchang Fu
+新市,1,5553,hvd_18767,http://maps.cga.harvard.edu/tgaz/placename/hvd_18767,CHGIS,新市,Xinshi,1820,1820,POINT,113.14713,28.80883,村镇,cun zhen,hvd_9621,长沙府,Changsha Fu
+通,2,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili

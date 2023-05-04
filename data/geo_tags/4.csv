@@ -1,0 +1,12 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+高要县,1,224,hvd_289,http://maps.cga.harvard.edu/tgaz/placename/hvd_289,CHGIS,高要县,Gaoyao Xian,1820,1820,POINT,112.45316000000001,23.05692,县,xian,hvd_9547,肇庆府,Zhaoqing Fu
+巢县,1,1564,hvd_1672,http://maps.cga.harvard.edu/tgaz/placename/hvd_1672,CHGIS,巢县,Chao Xian,1820,1820,POINT,117.86485,31.601740000000003,县,xian,hvd_9776,庐州府,Luzhou Fu
+西乡,1,3872,hvd_17086,http://maps.cga.harvard.edu/tgaz/placename/hvd_17086,CHGIS,西乡,Xixiang,1820,1820,POINT,108.80086999999999,22.43625,村镇,cun zhen,hvd_9553,廉州府,Lianzhou Fu
+范家,1,5865,hvd_19079,http://maps.cga.harvard.edu/tgaz/placename/hvd_19079,CHGIS,范家,Fanjia,1820,1820,POINT,119.13982,34.74165,村镇,cun zhen,hvd_9633,海州,Hai Zhou
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+定日,1,8920,hvd_22136,http://maps.cga.harvard.edu/tgaz/placename/hvd_22136,CHGIS,定日,Dingri,1820,1820,POINT,86.60767,28.57269,村镇,cun zhen,hvd_25016,西藏,Xizang
+上关,1,9214,hvd_22430,http://maps.cga.harvard.edu/tgaz/placename/hvd_22430,CHGIS,上关,Shangguan,1820,1820,POINT,100.12201999999999,25.92016,村镇,cun zhen,hvd_9753,大理府,Dali Fu
+田房,1,9489,hvd_22705,http://maps.cga.harvard.edu/tgaz/placename/hvd_22705,CHGIS,田房,Tianfang,1820,1820,POINT,103.7556,22.70685,村镇,cun zhen,hvd_9766,开化府,Kaihua Fu
+一团,1,10859,hvd_24247,http://maps.cga.harvard.edu/tgaz/placename/hvd_24247,CHGIS,一团,Yituan,1820,1820,POINT,121.73631999999999,30.974870000000003,村镇,cun zhen,hvd_40480,南汇县,Nanhui Xian
+南海县,2,275,hvd_340,http://maps.cga.harvard.edu/tgaz/placename/hvd_340,CHGIS,南海县,Nanhai Xian,1820,1820,POINT,113.25607,23.13462,县,xian,hvd_9549,广州府,Guangzhou Fu
+广东,2,10972,hvd_25054,http://maps.cga.harvard.edu/tgaz/placename/hvd_25054,CHGIS,广东,Guangdong,1820,1820,POINT,113.25607,23.13462,省,sheng,\N,\N,\N

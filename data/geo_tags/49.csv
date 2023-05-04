@@ -1,0 +1,6 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+小营,1,2303,hvd_15517,http://maps.cga.harvard.edu/tgaz/placename/hvd_15517,CHGIS,小营,Xiaoying,1820,1820,POINT,115.93695,38.10297,村镇,cun zhen,hvd_9502,深州,Shen Zhou
+凤凰,1,3836,hvd_17050,http://maps.cga.harvard.edu/tgaz/placename/hvd_17050,CHGIS,凤凰,Fenghuang,1820,1820,POINT,116.706,23.906,村镇,cun zhen,hvd_9551,潮州府,Chaozhou Fu
+花园,1,5182,hvd_18396,http://maps.cga.harvard.edu/tgaz/placename/hvd_18396,CHGIS,花园,Huayuan,1820,1820,POINT,113.97325,31.248490000000004,村镇,cun zhen,hvd_9611,汉阳府,Hanyang Fu
+场口,1,10114,hvd_23502,http://maps.cga.harvard.edu/tgaz/placename/hvd_23502,CHGIS,场口,Changkou,1820,1820,POINT,119.87986000000001,29.907629999999997,村镇,cun zhen,hvd_40092,富阳县,Fuyang Xian
+京师,3,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

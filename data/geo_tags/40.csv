@@ -1,0 +1,12 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+江都县,1,707,hvd_772,http://maps.cga.harvard.edu/tgaz/placename/hvd_772,CHGIS,江都县,Jiangdu Xian,1820,1820,POINT,119.43718999999999,32.39127,县,xian,hvd_9634,扬州府,Yangzhou Fu
+红旗,1,2531,hvd_15745,http://maps.cga.harvard.edu/tgaz/placename/hvd_15745,CHGIS,红旗,Hong Qi,1820,1820,POINT,117.65486000000001,41.10601,村镇,cun zhen,hvd_9510,承德府,Chengde Fu
+新集,1,3523,hvd_16737,http://maps.cga.harvard.edu/tgaz/placename/hvd_16737,CHGIS,新集,Xinji,1820,1820,POINT,107.23615,35.024570000000004,村镇,cun zhen,hvd_9539,泾州,Jing Zhou
+花园,1,5182,hvd_18396,http://maps.cga.harvard.edu/tgaz/placename/hvd_18396,CHGIS,花园,Huayuan,1820,1820,POINT,113.97325,31.248490000000004,村镇,cun zhen,hvd_9611,汉阳府,Hanyang Fu
+马头,1,9839,hvd_23057,http://maps.cga.harvard.edu/tgaz/placename/hvd_23057,CHGIS,马头,Matou,1820,1820,POINT,116.54525,32.02554,村镇,cun zhen,hvd_9787,六安州,Liu'an Zhou
+定远,1,9851,hvd_23069,http://maps.cga.harvard.edu/tgaz/placename/hvd_23069,CHGIS,定远,Dingyuan,1820,1820,POINT,117.67568999999999,32.53025,村镇,cun zhen,hvd_9785,凤阳府,Fengyang Fu
+四川,1,10933,hvd_25013,http://maps.cga.harvard.edu/tgaz/placename/hvd_25013,CHGIS,四川,Sichuan,1820,1820,POINT,104.07799999999999,30.65038,省,sheng,\N,\N,\N
+京师,1,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+成都府,2,2191,hvd_9713,http://maps.cga.harvard.edu/tgaz/placename/hvd_9713,CHGIS,成都府,Chengdu Fu,1820,1820,POINT,104.07799999999999,30.65038,府,fu,hvd_25013,四川,Sichuan
+通,3,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+南京,4,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

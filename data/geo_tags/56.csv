@@ -1,0 +1,29 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+高要县,1,224,hvd_289,http://maps.cga.harvard.edu/tgaz/placename/hvd_289,CHGIS,高要县,Gaoyao Xian,1820,1820,POINT,112.45316000000001,23.05692,县,xian,hvd_9547,肇庆府,Zhaoqing Fu
+陕西,1,10929,hvd_25009,http://maps.cga.harvard.edu/tgaz/placename/hvd_25009,CHGIS,陕西,Shanxi,1820,1820,POINT,108.94421000000001,34.26661,省,sheng,\N,\N,\N
+河南,1,10924,hvd_25004,http://maps.cga.harvard.edu/tgaz/placename/hvd_25004,CHGIS,河南,Henan,1820,1820,POINT,114.34333000000001,34.78548,省,sheng,\N,\N,\N
+吴山,1,10187,hvd_23575,http://maps.cga.harvard.edu/tgaz/placename/hvd_23575,CHGIS,吴山,Wushan,1820,1820,POINT,119.23100000000001,29.2904,村镇,cun zhen,hvd_40819,寿昌县,Shouchang Xian
+定远,1,9851,hvd_23069,http://maps.cga.harvard.edu/tgaz/placename/hvd_23069,CHGIS,定远,Dingyuan,1820,1820,POINT,117.67568999999999,32.53025,村镇,cun zhen,hvd_9785,凤阳府,Fengyang Fu
+太平,1,3704,hvd_16918,http://maps.cga.harvard.edu/tgaz/placename/hvd_16918,CHGIS,太平,Taiping,1820,1820,POINT,113.83549,24.594479999999997,村镇,cun zhen,hvd_9545,韶州府,Shaozhou Fu
+滁州,1,2257,hvd_9786,http://maps.cga.harvard.edu/tgaz/placename/hvd_9786,CHGIS,滁州,Chu Zhou,1820,1820,POINT,118.30416000000001,32.316990000000004,直隶州,zhi li zhou,hvd_25018,安徽,Anhui
+扬州府,1,2112,hvd_9634,http://maps.cga.harvard.edu/tgaz/placename/hvd_9634,CHGIS,扬州府,Yangzhou Fu,1820,1820,POINT,119.43718999999999,32.39127,府,fu,hvd_30035,江苏省,Jiangsu Sheng
+太平府,1,2046,hvd_9568,http://maps.cga.harvard.edu/tgaz/placename/hvd_9568,CHGIS,太平府,Taiping Fu,1820,1820,POINT,107.3448,22.44625,府,fu,hvd_25055,广西,Guangxi
+盱眙县,1,1603,hvd_1711,http://maps.cga.harvard.edu/tgaz/placename/hvd_1711,CHGIS,盱眙县,Xuyi Xian,1820,1820,POINT,118.49533999999998,33.01474,县,xian,hvd_9783,泗州,Si Zhou
+长沙府,1,2099,hvd_9621,http://maps.cga.harvard.edu/tgaz/placename/hvd_9621,CHGIS,长沙府,Changsha Fu,1820,1820,POINT,112.97813000000001,28.1982,府,fu,hvd_25006,湖南,Hunan
+定远县,1,1181,hvd_1246,http://maps.cga.harvard.edu/tgaz/placename/hvd_1246,CHGIS,定远县,Dingyuan Xian,1820,1820,POINT,106.2584,30.272370000000002,县,xian,hvd_9719,重庆府,Zhongqing Fu
+容县,1,391,hvd_456,http://maps.cga.harvard.edu/tgaz/placename/hvd_456,CHGIS,容县,Rong Xian,1820,1820,POINT,110.55103000000001,22.86359,县,xian,hvd_9565,梧州府,Wuzhou Fu
+同官县,1,880,hvd_945,http://maps.cga.harvard.edu/tgaz/placename/hvd_945,CHGIS,同官县,Tongguan Xian,1820,1820,POINT,109.07423,35.13301,县,xian,hvd_9659,西安府,Xi'an Fu
+金东,1,1443,hvd_1508,http://maps.cga.harvard.edu/tgaz/placename/hvd_1508,CHGIS,金东,Jindong,1820,1820,POINT,93.38463,28.975209999999997,宗,zong,hvd_25016,西藏,Xizang
+广东,1,10972,hvd_25054,http://maps.cga.harvard.edu/tgaz/placename/hvd_25054,CHGIS,广东,Guangdong,1820,1820,POINT,113.25607,23.13462,省,sheng,\N,\N,\N
+怀宁县,1,1576,hvd_1684,http://maps.cga.harvard.edu/tgaz/placename/hvd_1684,CHGIS,怀宁县,Huaining Xian,1820,1820,POINT,117.03468000000001,30.512290000000004,县,xian,hvd_9780,安庆府,Anqing Fu
+徽州府,2,2259,hvd_9788,http://maps.cga.harvard.edu/tgaz/placename/hvd_9788,CHGIS,徽州府,Huizhou Fu,1820,1820,POINT,118.43393999999999,29.86577,府,fu,hvd_25018,安徽,Anhui
+天长县,2,1601,hvd_1709,http://maps.cga.harvard.edu/tgaz/placename/hvd_1709,CHGIS,天长县,Tianchang Xian,1820,1820,POINT,118.99815,32.69052,县,xian,hvd_9783,泗州,Si Zhou
+安县,2,1130,hvd_1195,http://maps.cga.harvard.edu/tgaz/placename/hvd_1195,CHGIS,安县,An Xian,1820,1820,POINT,104.42853000000001,31.6495,县,xian,hvd_9705,绵州,Mian Zhou
+江西,2,10927,hvd_25007,http://maps.cga.harvard.edu/tgaz/placename/hvd_25007,CHGIS,江西,Jiangxi,1820,1820,POINT,115.89771999999999,28.6749,省,sheng,\N,\N,\N
+南昌府,2,2119,hvd_9641,http://maps.cga.harvard.edu/tgaz/placename/hvd_9641,CHGIS,南昌府,Nanchang Fu,1820,1820,POINT,115.89771999999999,28.6749,府,fu,hvd_25007,江西,Jiangxi
+五河县,2,1592,hvd_1700,http://maps.cga.harvard.edu/tgaz/placename/hvd_1700,CHGIS,五河县,Wuhe Xian,1820,1820,POINT,117.88253,33.13974,县,xian,hvd_9783,泗州,Si Zhou
+成都府,3,2191,hvd_9713,http://maps.cga.harvard.edu/tgaz/placename/hvd_9713,CHGIS,成都府,Chengdu Fu,1820,1820,POINT,104.07799999999999,30.65038,府,fu,hvd_25013,四川,Sichuan
+芜湖县,3,1566,hvd_1674,http://maps.cga.harvard.edu/tgaz/placename/hvd_1674,CHGIS,芜湖县,Wuhu Xian,1820,1820,POINT,118.36261999999999,31.33495,县,xian,hvd_9777,太平府,Taiping Fu
+仪征县,3,708,hvd_773,http://maps.cga.harvard.edu/tgaz/placename/hvd_773,CHGIS,仪征县,Yizheng Xian,1820,1820,POINT,119.17763000000001,32.267540000000004,县,xian,hvd_9634,扬州府,Yangzhou Fu
+四川,3,10933,hvd_25013,http://maps.cga.harvard.edu/tgaz/placename/hvd_25013,CHGIS,四川,Sichuan,1820,1820,POINT,104.07799999999999,30.65038,省,sheng,\N,\N,\N
+直隶,33,10970,hvd_25052,http://maps.cga.harvard.edu/tgaz/placename/hvd_25052,CHGIS,直隶,Zhili,1820,1820,POINT,116.368,39.93143,省,sheng,\N,\N,\N

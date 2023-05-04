@@ -1,0 +1,18 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+永乐,1,7612,hvd_20828,http://maps.cga.harvard.edu/tgaz/placename/hvd_20828,CHGIS,永乐,Yongle,1820,1820,POINT,112.056,36.148,村镇,cun zhen,hvd_9690,平阳府,Pingyang Fu
+天长县,1,1601,hvd_1709,http://maps.cga.harvard.edu/tgaz/placename/hvd_1709,CHGIS,天长县,Tianchang Xian,1820,1820,POINT,118.99815,32.69052,县,xian,hvd_9783,泗州,Si Zhou
+兖州府,1,2154,hvd_9676,http://maps.cga.harvard.edu/tgaz/placename/hvd_9676,CHGIS,兖州府,Yanzhou Fu,1820,1820,POINT,116.8237,35.5567,府,fu,hvd_25010,山东,Shandong
+成都府,1,2191,hvd_9713,http://maps.cga.harvard.edu/tgaz/placename/hvd_9713,CHGIS,成都府,Chengdu Fu,1820,1820,POINT,104.07799999999999,30.65038,府,fu,hvd_25013,四川,Sichuan
+西湖,1,3132,hvd_16346,http://maps.cga.harvard.edu/tgaz/placename/hvd_16346,CHGIS,西湖,Xihu,1820,1820,POINT,93.69923,40.34418,村镇,cun zhen,hvd_9530,安西州,Anxi Zhou
+太平,1,3704,hvd_16918,http://maps.cga.harvard.edu/tgaz/placename/hvd_16918,CHGIS,太平,Taiping,1820,1820,POINT,113.83549,24.594479999999997,村镇,cun zhen,hvd_9545,韶州府,Shaozhou Fu
+大乐,1,3757,hvd_16971,http://maps.cga.harvard.edu/tgaz/placename/hvd_16971,CHGIS,大乐,Dale,1820,1820,POINT,111.93098,23.46295,村镇,cun zhen,hvd_9547,肇庆府,Zhaoqing Fu
+招贤,1,7239,hvd_20455,http://maps.cga.harvard.edu/tgaz/placename/hvd_20455,CHGIS,招贤,Zhaoxian,1820,1820,POINT,118.92835,35.727309999999996,村镇,cun zhen,hvd_9678,沂州府,Yizhou Fu
+山东,1,10930,hvd_25010,http://maps.cga.harvard.edu/tgaz/placename/hvd_25010,CHGIS,山东,Shandong,1820,1820,POINT,117.00148999999999,36.65013,省,sheng,\N,\N,\N
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+小店,1,10276,hvd_23664,http://maps.cga.harvard.edu/tgaz/placename/hvd_23664,CHGIS,小店,Xiaodian,1820,1820,POINT,118.62312,32.13279,村镇,cun zhen,hvd_40562,江浦县,Jiangpu Xian
+采石,1,9709,hvd_22927,http://maps.cga.harvard.edu/tgaz/placename/hvd_22927,CHGIS,采石,Caishi,1820,1820,POINT,118.48228,31.67209,村镇,cun zhen,hvd_9777,太平府,Taiping Fu
+马头,1,9839,hvd_23057,http://maps.cga.harvard.edu/tgaz/placename/hvd_23057,CHGIS,马头,Matou,1820,1820,POINT,116.54525,32.02554,村镇,cun zhen,hvd_9787,六安州,Liu'an Zhou
+金东,2,1443,hvd_1508,http://maps.cga.harvard.edu/tgaz/placename/hvd_1508,CHGIS,金东,Jindong,1820,1820,POINT,93.38463,28.975209999999997,宗,zong,hvd_25016,西藏,Xizang
+四川,2,10933,hvd_25013,http://maps.cga.harvard.edu/tgaz/placename/hvd_25013,CHGIS,四川,Sichuan,1820,1820,POINT,104.07799999999999,30.65038,省,sheng,\N,\N,\N
+三山,2,9646,hvd_22862,http://maps.cga.harvard.edu/tgaz/placename/hvd_22862,CHGIS,三山,Sanshan,1820,1820,POINT,121.24128999999999,30.174120000000002,村镇,cun zhen,hvd_32185,绍兴府,Shaoxing Fu
+南京,5,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

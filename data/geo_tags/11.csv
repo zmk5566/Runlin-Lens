@@ -1,0 +1,7 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+淮安府,1,2110,hvd_9632,http://maps.cga.harvard.edu/tgaz/placename/hvd_9632,CHGIS,淮安府,Huai'an Fu,1820,1820,POINT,119.14111000000001,33.502790000000005,府,fu,hvd_30035,江苏省,Jiangsu Sheng
+中关,1,2485,hvd_15699,http://maps.cga.harvard.edu/tgaz/placename/hvd_15699,CHGIS,中关,Zhongguan,1820,1820,POINT,117.92756000000001,41.18418,村镇,cun zhen,hvd_9510,承德府,Chengde Fu
+东坡,1,3661,hvd_16875,http://maps.cga.harvard.edu/tgaz/placename/hvd_16875,CHGIS,东坡,Dongpo,1820,1820,POINT,112.29453000000001,24.99521,村镇,cun zhen,hvd_9544,连州,Lian Zhou
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+新市镇,4,3547,hvd_16761,http://maps.cga.harvard.edu/tgaz/placename/hvd_16761,CHGIS,新市镇,Xinshizhen,1820,1820,POINT,104.63888,34.64597,村镇,cun zhen,hvd_9538,巩昌府,Gongchang Fu
+新市,4,5553,hvd_18767,http://maps.cga.harvard.edu/tgaz/placename/hvd_18767,CHGIS,新市,Xinshi,1820,1820,POINT,113.14713,28.80883,村镇,cun zhen,hvd_9621,长沙府,Changsha Fu

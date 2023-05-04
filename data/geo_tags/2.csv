@@ -1,0 +1,8 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+汶上县,1,991,hvd_1056,http://maps.cga.harvard.edu/tgaz/placename/hvd_1056,CHGIS,汶上县,Wenshang Xian,1820,1820,POINT,116.48556,35.72985,县,xian,hvd_9676,兖州府,Yanzhou Fu
+兖州府,1,2154,hvd_9676,http://maps.cga.harvard.edu/tgaz/placename/hvd_9676,CHGIS,兖州府,Yanzhou Fu,1820,1820,POINT,116.8237,35.5567,府,fu,hvd_25010,山东,Shandong
+龙门,1,3978,hvd_17192,http://maps.cga.harvard.edu/tgaz/placename/hvd_17192,CHGIS,龙门,Longmen,1820,1820,POINT,108.54543000000001,21.7471,村镇,cun zhen,hvd_9553,廉州府,Lianzhou Fu
+极高,1,6110,hvd_19324,http://maps.cga.harvard.edu/tgaz/placename/hvd_19324,CHGIS,极高,Jigao,1820,1820,POINT,117.08819,27.32405,村镇,cun zhen,hvd_9647,建昌府,Jianchang Fu
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+山东,1,10930,hvd_25010,http://maps.cga.harvard.edu/tgaz/placename/hvd_25010,CHGIS,山东,Shandong,1820,1820,POINT,117.00148999999999,36.65013,省,sheng,\N,\N,\N
+薛家集,3,5076,hvd_18290,http://maps.cga.harvard.edu/tgaz/placename/hvd_18290,CHGIS,薛家集,Xuejiaji,1820,1820,POINT,111.92533,32.43918,村镇,cun zhen,hvd_9604,襄阳府,Xiangyang Fu

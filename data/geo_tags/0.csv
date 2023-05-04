@@ -1,0 +1,3 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+洪江,1,5559,hvd_18773,http://maps.cga.harvard.edu/tgaz/placename/hvd_18773,CHGIS,洪江,Hongjiang,1820,1820,POINT,109.9916,27.112779999999997,村镇,cun zhen,hvd_9625,靖州,Jing Zhou
+安徽,2,10938,hvd_25018,http://maps.cga.harvard.edu/tgaz/placename/hvd_25018,CHGIS,安徽,Anhui,1820,1820,POINT,117.03468000000001,30.512290000000004,省,sheng,\N,\N,\N

@@ -1,0 +1,6 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+桑里,1,1452,hvd_1517,http://maps.cga.harvard.edu/tgaz/placename/hvd_1517,CHGIS,桑里,Sangli,1820,1820,POINT,92.03615,29.288359999999997,宗,zong,hvd_25016,西藏,Xizang
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+西湖,2,3132,hvd_16346,http://maps.cga.harvard.edu/tgaz/placename/hvd_16346,CHGIS,西湖,Xihu,1820,1820,POINT,93.69923,40.34418,村镇,cun zhen,hvd_9530,安西州,Anxi Zhou
+花园,2,5182,hvd_18396,http://maps.cga.harvard.edu/tgaz/placename/hvd_18396,CHGIS,花园,Huayuan,1820,1820,POINT,113.97325,31.248490000000004,村镇,cun zhen,hvd_9611,汉阳府,Hanyang Fu
+上楼,2,9121,hvd_22337,http://maps.cga.harvard.edu/tgaz/placename/hvd_22337,CHGIS,上楼,Shanglou,1820,1820,POINT,98.51997,26.04351,村镇,cun zhen,hvd_9750,腾越厅,Tengyue Ting

@@ -1,0 +1,11 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+扬州府,1,2112,hvd_9634,http://maps.cga.harvard.edu/tgaz/placename/hvd_9634,CHGIS,扬州府,Yangzhou Fu,1820,1820,POINT,119.43718999999999,32.39127,府,fu,hvd_30035,江苏省,Jiangsu Sheng
+花园,1,5182,hvd_18396,http://maps.cga.harvard.edu/tgaz/placename/hvd_18396,CHGIS,花园,Huayuan,1820,1820,POINT,113.97325,31.248490000000004,村镇,cun zhen,hvd_9611,汉阳府,Hanyang Fu
+太平府,2,2046,hvd_9568,http://maps.cga.harvard.edu/tgaz/placename/hvd_9568,CHGIS,太平府,Taiping Fu,1820,1820,POINT,107.3448,22.44625,府,fu,hvd_25055,广西,Guangxi
+太平,2,3704,hvd_16918,http://maps.cga.harvard.edu/tgaz/placename/hvd_16918,CHGIS,太平,Taiping,1820,1820,POINT,113.83549,24.594479999999997,村镇,cun zhen,hvd_9545,韶州府,Shaozhou Fu
+龙门,2,3978,hvd_17192,http://maps.cga.harvard.edu/tgaz/placename/hvd_17192,CHGIS,龙门,Longmen,1820,1820,POINT,108.54543000000001,21.7471,村镇,cun zhen,hvd_9553,廉州府,Lianzhou Fu
+通,2,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+文昌,3,10339,hvd_23727,http://maps.cga.harvard.edu/tgaz/placename/hvd_23727,CHGIS,文昌,Wenchang,1820,1820,POINT,119.19083,29.74029,村镇,cun zhen,hvd_40811,淳安县,Chun'an Xian
+红旗,4,2531,hvd_15745,http://maps.cga.harvard.edu/tgaz/placename/hvd_15745,CHGIS,红旗,Hong Qi,1820,1820,POINT,117.65486000000001,41.10601,村镇,cun zhen,hvd_9510,承德府,Chengde Fu
+贵州,5,10922,hvd_25002,http://maps.cga.harvard.edu/tgaz/placename/hvd_25002,CHGIS,贵州,Guizhou,1820,1820,POINT,106.70911000000001,26.580779999999997,省,sheng,\N,\N,\N
+南京,5,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

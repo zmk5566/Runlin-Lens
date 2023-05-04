@@ -1,0 +1,9 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+西水关,1,3251,hvd_16465,http://maps.cga.harvard.edu/tgaz/placename/hvd_16465,CHGIS,西水关,Xishuiguan,1820,1820,POINT,100.80569,38.3121,村镇,cun zhen,hvd_9532,甘州府,Ganzhou Fu
+石碑,1,4101,hvd_17315,http://maps.cga.harvard.edu/tgaz/placename/hvd_17315,CHGIS,石碑,Shibei,1820,1820,POINT,108.89346,25.69914,村镇,cun zhen,hvd_9560,柳州府,Liuzhou Fu
+穿城,1,5807,hvd_19021,http://maps.cga.harvard.edu/tgaz/placename/hvd_19021,CHGIS,穿城,Chuancheng,1820,1820,POINT,118.61882,33.9101,村镇,cun zhen,hvd_9632,淮安府,Huai'an Fu
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+山东,1,10930,hvd_25010,http://maps.cga.harvard.edu/tgaz/placename/hvd_25010,CHGIS,山东,Shandong,1820,1820,POINT,117.00148999999999,36.65013,省,sheng,\N,\N,\N
+芜湖县,2,1566,hvd_1674,http://maps.cga.harvard.edu/tgaz/placename/hvd_1674,CHGIS,芜湖县,Wuhu Xian,1820,1820,POINT,118.36261999999999,31.33495,县,xian,hvd_9777,太平府,Taiping Fu
+南京,4,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+安东县,6,696,hvd_761,http://maps.cga.harvard.edu/tgaz/placename/hvd_761,CHGIS,安东县,Andong Xian,1820,1820,POINT,119.26123,33.76637,县,xian,hvd_9632,淮安府,Huai'an Fu

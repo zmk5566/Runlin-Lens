@@ -1,0 +1,12 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+金龙,1,1386,hvd_1451,http://maps.cga.harvard.edu/tgaz/placename/hvd_1451,CHGIS,金龙,Jinlong,1820,1820,POINT,87.84124,28.45423,宗,zong,hvd_25016,西藏,Xizang
+永乐,1,7612,hvd_20828,http://maps.cga.harvard.edu/tgaz/placename/hvd_20828,CHGIS,永乐,Yongle,1820,1820,POINT,112.056,36.148,村镇,cun zhen,hvd_9690,平阳府,Pingyang Fu
+长林,1,10182,hvd_23570,http://maps.cga.harvard.edu/tgaz/placename/hvd_23570,CHGIS,长林,Changlin,1820,1820,POINT,118.99011999999999,29.304190000000002,村镇,cun zhen,hvd_40819,寿昌县,Shouchang Xian
+乌镇,1,10596,hvd_23984,http://maps.cga.harvard.edu/tgaz/placename/hvd_23984,CHGIS,乌镇,Wuzhen,1820,1820,POINT,120.48626999999999,30.74377,村镇,cun zhen,hvd_40127,乌程县,Wucheng Xian
+山东,1,10930,hvd_25010,http://maps.cga.harvard.edu/tgaz/placename/hvd_25010,CHGIS,山东,Shandong,1820,1820,POINT,117.00148999999999,36.65013,省,sheng,\N,\N,\N
+京师,1,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+公馆,2,3988,hvd_17202,http://maps.cga.harvard.edu/tgaz/placename/hvd_17202,CHGIS,公馆,Gongguan,1820,1820,POINT,109.60718999999999,21.79666,村镇,cun zhen,hvd_9553,廉州府,Lianzhou Fu
+南昌府,3,2119,hvd_9641,http://maps.cga.harvard.edu/tgaz/placename/hvd_9641,CHGIS,南昌府,Nanchang Fu,1820,1820,POINT,115.89771999999999,28.6749,府,fu,hvd_25007,江西,Jiangxi
+新建,3,6020,hvd_19234,http://maps.cga.harvard.edu/tgaz/placename/hvd_19234,CHGIS,新建,Xinjian,1820,1820,POINT,117.92731,29.1277,村镇,cun zhen,hvd_9639,饶州府,Raozhou Fu
+通,6,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+江西,7,10927,hvd_25007,http://maps.cga.harvard.edu/tgaz/placename/hvd_25007,CHGIS,江西,Jiangxi,1820,1820,POINT,115.89771999999999,28.6749,省,sheng,\N,\N,\N

@@ -1,0 +1,10 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+同官县,1,880,hvd_945,http://maps.cga.harvard.edu/tgaz/placename/hvd_945,CHGIS,同官县,Tongguan Xian,1820,1820,POINT,109.07423,35.13301,县,xian,hvd_9659,西安府,Xi'an Fu
+成都府,1,2191,hvd_9713,http://maps.cga.harvard.edu/tgaz/placename/hvd_9713,CHGIS,成都府,Chengdu Fu,1820,1820,POINT,104.07799999999999,30.65038,府,fu,hvd_25013,四川,Sichuan
+甘棠,1,3017,hvd_16231,http://maps.cga.harvard.edu/tgaz/placename/hvd_16231,CHGIS,甘棠,Gantang,1820,1820,POINT,117.34136000000001,24.59572,村镇,cun zhen,hvd_32139,漳州府,Zhangzhou Fu
+保平,1,4063,hvd_17277,http://maps.cga.harvard.edu/tgaz/placename/hvd_17277,CHGIS,保平,Baoping,1820,1820,POINT,109.1315,18.36771,村镇,cun zhen,hvd_9556,琼州府,Qiongzhou Fu
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+陕西,1,10929,hvd_25009,http://maps.cga.harvard.edu/tgaz/placename/hvd_25009,CHGIS,陕西,Shanxi,1820,1820,POINT,108.94421000000001,34.26661,省,sheng,\N,\N,\N
+四川,1,10933,hvd_25013,http://maps.cga.harvard.edu/tgaz/placename/hvd_25013,CHGIS,四川,Sichuan,1820,1820,POINT,104.07799999999999,30.65038,省,sheng,\N,\N,\N
+小山,2,6949,hvd_20165,http://maps.cga.harvard.edu/tgaz/placename/hvd_20165,CHGIS,小山,Xiaoshan,1820,1820,POINT,117.58401,38.17648,村镇,cun zhen,hvd_9671,武定府,Wuding Fu
+东山,2,10491,hvd_23879,http://maps.cga.harvard.edu/tgaz/placename/hvd_23879,CHGIS,东山,Dongshan,1820,1820,POINT,120.39973,31.090429999999998,村镇,cun zhen,hvd_40409,太湖厅,Taihu Ting

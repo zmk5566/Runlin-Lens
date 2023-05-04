@@ -1,0 +1,17 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+江都县,1,707,hvd_772,http://maps.cga.harvard.edu/tgaz/placename/hvd_772,CHGIS,江都县,Jiangdu Xian,1820,1820,POINT,119.43718999999999,32.39127,县,xian,hvd_9634,扬州府,Yangzhou Fu
+彭泽县,1,719,hvd_784,http://maps.cga.harvard.edu/tgaz/placename/hvd_784,CHGIS,彭泽县,Pengze Xian,1820,1820,POINT,116.55122,29.8961,县,xian,hvd_9637,九江府,Jiujiang Fu
+天长县,1,1601,hvd_1709,http://maps.cga.harvard.edu/tgaz/placename/hvd_1709,CHGIS,天长县,Tianchang Xian,1820,1820,POINT,118.99815,32.69052,县,xian,hvd_9783,泗州,Si Zhou
+下营,1,3747,hvd_16961,http://maps.cga.harvard.edu/tgaz/placename/hvd_16961,CHGIS,下营,Xiaying,1820,1820,POINT,111.86985,23.48726,村镇,cun zhen,hvd_9547,肇庆府,Zhaoqing Fu
+封门,1,3753,hvd_16967,http://maps.cga.harvard.edu/tgaz/placename/hvd_16967,CHGIS,封门,Fengmen,1820,1820,POINT,111.42442,23.01386,村镇,cun zhen,hvd_9552,罗定州,Luoding Zhou
+得胜,1,3770,hvd_16984,http://maps.cga.harvard.edu/tgaz/placename/hvd_16984,CHGIS,得胜,Desheng,1820,1820,POINT,112.22697,23.65259,村镇,cun zhen,hvd_9547,肇庆府,Zhaoqing Fu
+大姑塘,1,5964,hvd_19178,http://maps.cga.harvard.edu/tgaz/placename/hvd_19178,CHGIS,大姑塘,Dagutang,1820,1820,POINT,116.12845,29.635759999999998,村镇,cun zhen,hvd_9637,九江府,Jiujiang Fu
+极高,1,6110,hvd_19324,http://maps.cga.harvard.edu/tgaz/placename/hvd_19324,CHGIS,极高,Jigao,1820,1820,POINT,117.08819,27.32405,村镇,cun zhen,hvd_9647,建昌府,Jianchang Fu
+长官司,1,9075,hvd_22291,http://maps.cga.harvard.edu/tgaz/placename/hvd_22291,CHGIS,长官司,Changguansi,1820,1820,POINT,105.05083,28.03732,村镇,cun zhen,hvd_9747,昭通府,Zhaotong Fu
+黄泥,1,10666,hvd_24054,http://maps.cga.harvard.edu/tgaz/placename/hvd_24054,CHGIS,黄泥,Huangni,1820,1820,POINT,120.81575,30.51888,村镇,cun zhen,hvd_40075,海盐县,Haiyan Xian
+三营,2,3414,hvd_16628,http://maps.cga.harvard.edu/tgaz/placename/hvd_16628,CHGIS,三营,Sanying,1820,1820,POINT,106.14793999999999,36.28065,村镇,cun zhen,hvd_9529,平凉府,Pingliang Fu
+通,2,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+歌舞,3,10216,hvd_23604,http://maps.cga.harvard.edu/tgaz/placename/hvd_23604,CHGIS,歌舞,Gewu,1820,1820,POINT,119.41543999999999,29.784270000000003,村镇,cun zhen,hvd_40799,分水县,Fenshui Xian
+贵州,4,10922,hvd_25002,http://maps.cga.harvard.edu/tgaz/placename/hvd_25002,CHGIS,贵州,Guizhou,1820,1820,POINT,106.70911000000001,26.580779999999997,省,sheng,\N,\N,\N
+镇远府,5,2054,hvd_9576,http://maps.cga.harvard.edu/tgaz/placename/hvd_9576,CHGIS,镇远府,Zhenyuan Fu,1820,1820,POINT,108.41845,27.05426,府,fu,hvd_25002,贵州,Guizhou
+汤镇,23,10065,hvd_23453,http://maps.cga.harvard.edu/tgaz/placename/hvd_23453,CHGIS,汤镇,Tangzhen,1820,1820,POINT,120.35831,30.366429999999998,村镇,cun zhen,hvd_40081,仁和县,Renhe Xian

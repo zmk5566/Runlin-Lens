@@ -1,0 +1,4 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+合州,1,1179,hvd_1244,http://maps.cga.harvard.edu/tgaz/placename/hvd_1244,CHGIS,合州,He Zhou,1820,1820,POINT,106.25956000000001,30.003940000000004,州,zhou,hvd_9719,重庆府,Zhongqing Fu
+青云,1,2662,hvd_15876,http://maps.cga.harvard.edu/tgaz/placename/hvd_15876,CHGIS,青云,Qingyun,1820,1820,POINT,116.50591000000001,39.67954,村镇,cun zhen,hvd_9513,顺天府,Shuntian Fu
+通,2,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili

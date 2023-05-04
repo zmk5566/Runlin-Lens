@@ -1,0 +1,9 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+三间房,1,8858,hvd_22074,http://maps.cga.harvard.edu/tgaz/placename/hvd_22074,CHGIS,三间房,Sanjianfang,1820,1820,POINT,91.81581,43.19153,村镇,cun zhen,hvd_9740,哈密,Hami
+三山,1,9646,hvd_22862,http://maps.cga.harvard.edu/tgaz/placename/hvd_22862,CHGIS,三山,Sanshan,1820,1820,POINT,121.24128999999999,30.174120000000002,村镇,cun zhen,hvd_32185,绍兴府,Shaoxing Fu
+京师,1,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+极高,2,6110,hvd_19324,http://maps.cga.harvard.edu/tgaz/placename/hvd_19324,CHGIS,极高,Jigao,1820,1820,POINT,117.08819,27.32405,村镇,cun zhen,hvd_9647,建昌府,Jianchang Fu
+三道,2,6578,hvd_19794,http://maps.cga.harvard.edu/tgaz/placename/hvd_19794,CHGIS,三道,Sandao,1820,1820,POINT,109.09618999999999,37.60031,村镇,cun zhen,hvd_9667,榆林府,Yulin Fu
+方家,2,10066,hvd_23454,http://maps.cga.harvard.edu/tgaz/placename/hvd_23454,CHGIS,方家,Fangjia,1820,1820,POINT,120.31709,30.356309999999997,村镇,cun zhen,hvd_40081,仁和县,Renhe Xian
+南京,12,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

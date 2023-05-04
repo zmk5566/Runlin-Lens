@@ -1,0 +1,11 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+江都县,1,707,hvd_772,http://maps.cga.harvard.edu/tgaz/placename/hvd_772,CHGIS,江都县,Jiangdu Xian,1820,1820,POINT,119.43718999999999,32.39127,县,xian,hvd_9634,扬州府,Yangzhou Fu
+金东,1,1443,hvd_1508,http://maps.cga.harvard.edu/tgaz/placename/hvd_1508,CHGIS,金东,Jindong,1820,1820,POINT,93.38463,28.975209999999997,宗,zong,hvd_25016,西藏,Xizang
+扬州府,1,2112,hvd_9634,http://maps.cga.harvard.edu/tgaz/placename/hvd_9634,CHGIS,扬州府,Yangzhou Fu,1820,1820,POINT,119.43718999999999,32.39127,府,fu,hvd_30035,江苏省,Jiangsu Sheng
+西湖,1,3132,hvd_16346,http://maps.cga.harvard.edu/tgaz/placename/hvd_16346,CHGIS,西湖,Xihu,1820,1820,POINT,93.69923,40.34418,村镇,cun zhen,hvd_9530,安西州,Anxi Zhou
+鸡鸣寺,1,8120,hvd_21336,http://maps.cga.harvard.edu/tgaz/placename/hvd_21336,CHGIS,鸡鸣寺,Jimingsi,1820,1820,POINT,108.60113,31.72053,村镇,cun zhen,hvd_9702,太平厅,Taiping Ting
+通,2,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+奉天,2,19894,hvd_79324,http://maps.cga.harvard.edu/tgaz/placename/hvd_79324,CHGIS,奉天,Fengtian,1665,1746,POINT,123.41988,41.78825,省,sheng,hvd_113648,清,Qing
+京师,3,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+花园,4,5182,hvd_18396,http://maps.cga.harvard.edu/tgaz/placename/hvd_18396,CHGIS,花园,Huayuan,1820,1820,POINT,113.97325,31.248490000000004,村镇,cun zhen,hvd_9611,汉阳府,Hanyang Fu
+南京,6,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

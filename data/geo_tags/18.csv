@@ -1,0 +1,12 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+花园,1,5182,hvd_18396,http://maps.cga.harvard.edu/tgaz/placename/hvd_18396,CHGIS,花园,Huayuan,1820,1820,POINT,113.97325,31.248490000000004,村镇,cun zhen,hvd_9611,汉阳府,Hanyang Fu
+石门,1,5463,hvd_18677,http://maps.cga.harvard.edu/tgaz/placename/hvd_18677,CHGIS,石门,Shimen,1820,1820,POINT,110.66376000000001,26.526870000000002,村镇,cun zhen,hvd_9630,宝庆府,Baoqing Fu
+那蓝,1,8564,hvd_21780,http://maps.cga.harvard.edu/tgaz/placename/hvd_21780,CHGIS,那蓝,Nalan,1820,1820,POINT,106.69728,46.4866,村镇,cun zhen,hvd_1806,土谢图汗部,Tuxietuhanbu
+广东,1,10972,hvd_25054,http://maps.cga.harvard.edu/tgaz/placename/hvd_25054,CHGIS,广东,Guangdong,1820,1820,POINT,113.25607,23.13462,省,sheng,\N,\N,\N
+京师,1,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+河南,2,10924,hvd_25004,http://maps.cga.harvard.edu/tgaz/placename/hvd_25004,CHGIS,河南,Henan,1820,1820,POINT,114.34333000000001,34.78548,省,sheng,\N,\N,\N
+山东,2,10930,hvd_25010,http://maps.cga.harvard.edu/tgaz/placename/hvd_25010,CHGIS,山东,Shandong,1820,1820,POINT,117.00148999999999,36.65013,省,sheng,\N,\N,\N
+西湖,4,3132,hvd_16346,http://maps.cga.harvard.edu/tgaz/placename/hvd_16346,CHGIS,西湖,Xihu,1820,1820,POINT,93.69923,40.34418,村镇,cun zhen,hvd_9530,安西州,Anxi Zhou
+上楼,4,9121,hvd_22337,http://maps.cga.harvard.edu/tgaz/placename/hvd_22337,CHGIS,上楼,Shanglou,1820,1820,POINT,98.51997,26.04351,村镇,cun zhen,hvd_9750,腾越厅,Tengyue Ting
+金东,5,1443,hvd_1508,http://maps.cga.harvard.edu/tgaz/placename/hvd_1508,CHGIS,金东,Jindong,1820,1820,POINT,93.38463,28.975209999999997,宗,zong,hvd_25016,西藏,Xizang
+通,5,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili

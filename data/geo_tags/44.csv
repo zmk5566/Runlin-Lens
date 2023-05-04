@@ -1,0 +1,11 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+高要县,1,224,hvd_289,http://maps.cga.harvard.edu/tgaz/placename/hvd_289,CHGIS,高要县,Gaoyao Xian,1820,1820,POINT,112.45316000000001,23.05692,县,xian,hvd_9547,肇庆府,Zhaoqing Fu
+长江,1,3665,hvd_16879,http://maps.cga.harvard.edu/tgaz/placename/hvd_16879,CHGIS,长江,Changjiang,1820,1820,POINT,113.92055,25.32825,村镇,cun zhen,hvd_9545,韶州府,Shaozhou Fu
+那晓,1,4286,hvd_17500,http://maps.cga.harvard.edu/tgaz/placename/hvd_17500,CHGIS,那晓,Naxiao,1820,1820,POINT,108.42249,22.31298,村镇,cun zhen,hvd_9566,南宁府,Nanning Fu
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+黄泥,1,10666,hvd_24054,http://maps.cga.harvard.edu/tgaz/placename/hvd_24054,CHGIS,黄泥,Huangni,1820,1820,POINT,120.81575,30.51888,村镇,cun zhen,hvd_40075,海盐县,Haiyan Xian
+南京,3,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+五河县,5,1592,hvd_1700,http://maps.cga.harvard.edu/tgaz/placename/hvd_1700,CHGIS,五河县,Wuhe Xian,1820,1820,POINT,117.88253,33.13974,县,xian,hvd_9783,泗州,Si Zhou
+无为州,5,1606,hvd_1714,http://maps.cga.harvard.edu/tgaz/placename/hvd_1714,CHGIS,无为州,Wuwei Zhou,1820,1820,POINT,117.91131999999999,31.29852,州,zhou,hvd_9776,庐州府,Luzhou Fu
+方家,6,10066,hvd_23454,http://maps.cga.harvard.edu/tgaz/placename/hvd_23454,CHGIS,方家,Fangjia,1820,1820,POINT,120.31709,30.356309999999997,村镇,cun zhen,hvd_40081,仁和县,Renhe Xian
+汤镇,11,10065,hvd_23453,http://maps.cga.harvard.edu/tgaz/placename/hvd_23453,CHGIS,汤镇,Tangzhen,1820,1820,POINT,120.35831,30.366429999999998,村镇,cun zhen,hvd_40081,仁和县,Renhe Xian

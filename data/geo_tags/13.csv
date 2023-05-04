@@ -1,0 +1,5 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+贵县,1,355,hvd_420,http://maps.cga.harvard.edu/tgaz/placename/hvd_420,CHGIS,贵县,Gui Xian,1820,1820,POINT,109.60843999999999,23.09909,县,xian,hvd_9564,浔州府,Xunzhou Fu
+南昌府,1,2119,hvd_9641,http://maps.cga.harvard.edu/tgaz/placename/hvd_9641,CHGIS,南昌府,Nanchang Fu,1820,1820,POINT,115.89771999999999,28.6749,府,fu,hvd_25007,江西,Jiangxi
+上楼,1,9121,hvd_22337,http://maps.cga.harvard.edu/tgaz/placename/hvd_22337,CHGIS,上楼,Shanglou,1820,1820,POINT,98.51997,26.04351,村镇,cun zhen,hvd_9750,腾越厅,Tengyue Ting
+通,2,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili

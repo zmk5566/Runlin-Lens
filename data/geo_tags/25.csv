@@ -1,0 +1,8 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+天长县,1,1601,hvd_1709,http://maps.cga.harvard.edu/tgaz/placename/hvd_1709,CHGIS,天长县,Tianchang Xian,1820,1820,POINT,118.99815,32.69052,县,xian,hvd_9783,泗州,Si Zhou
+感恩,1,4056,hvd_17270,http://maps.cga.harvard.edu/tgaz/placename/hvd_17270,CHGIS,感恩,Gan'en,1820,1820,POINT,108.63981000000001,18.84644,村镇,cun zhen,hvd_9556,琼州府,Qiongzhou Fu
+四川,1,10933,hvd_25013,http://maps.cga.harvard.edu/tgaz/placename/hvd_25013,CHGIS,四川,Sichuan,1820,1820,POINT,104.07799999999999,30.65038,省,sheng,\N,\N,\N
+安庆府,2,2251,hvd_9780,http://maps.cga.harvard.edu/tgaz/placename/hvd_9780,CHGIS,安庆府,Anqing Fu,1820,1820,POINT,117.03468000000001,30.512290000000004,府,fu,hvd_25018,安徽,Anhui
+安东县,3,696,hvd_761,http://maps.cga.harvard.edu/tgaz/placename/hvd_761,CHGIS,安东县,Andong Xian,1820,1820,POINT,119.26123,33.76637,县,xian,hvd_9632,淮安府,Huai'an Fu
+公馆,3,3988,hvd_17202,http://maps.cga.harvard.edu/tgaz/placename/hvd_17202,CHGIS,公馆,Gongguan,1820,1820,POINT,109.60718999999999,21.79666,村镇,cun zhen,hvd_9553,廉州府,Lianzhou Fu
+南京,3,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

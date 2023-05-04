@@ -1,0 +1,6 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+拜的,1,1416,hvd_1481,http://maps.cga.harvard.edu/tgaz/placename/hvd_1481,CHGIS,拜的,Baide,1820,1820,POINT,90.4287,29.125190000000003,宗,zong,hvd_25016,西藏,Xizang
+凤阳府,1,2256,hvd_9785,http://maps.cga.harvard.edu/tgaz/placename/hvd_9785,CHGIS,凤阳府,Fengyang Fu,1820,1820,POINT,117.52367,32.8662,府,fu,hvd_25018,安徽,Anhui
+京师,1,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+花园,2,5182,hvd_18396,http://maps.cga.harvard.edu/tgaz/placename/hvd_18396,CHGIS,花园,Huayuan,1820,1820,POINT,113.97325,31.248490000000004,村镇,cun zhen,hvd_9611,汉阳府,Hanyang Fu
+南京,2,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

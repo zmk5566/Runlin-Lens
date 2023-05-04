@@ -1,0 +1,8 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+西湖,1,3132,hvd_16346,http://maps.cga.harvard.edu/tgaz/placename/hvd_16346,CHGIS,西湖,Xihu,1820,1820,POINT,93.69923,40.34418,村镇,cun zhen,hvd_9530,安西州,Anxi Zhou
+那晓,1,4286,hvd_17500,http://maps.cga.harvard.edu/tgaz/placename/hvd_17500,CHGIS,那晓,Naxiao,1820,1820,POINT,108.42249,22.31298,村镇,cun zhen,hvd_9566,南宁府,Nanning Fu
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+定日,1,8920,hvd_22136,http://maps.cga.harvard.edu/tgaz/placename/hvd_22136,CHGIS,定日,Dingri,1820,1820,POINT,86.60767,28.57269,村镇,cun zhen,hvd_25016,西藏,Xizang
+前山,1,10219,hvd_23607,http://maps.cga.harvard.edu/tgaz/placename/hvd_23607,CHGIS,前山,Qianshan,1820,1820,POINT,119.33298,29.8045,村镇,cun zhen,hvd_40799,分水县,Fenshui Xian
+小店,1,10276,hvd_23664,http://maps.cga.harvard.edu/tgaz/placename/hvd_23664,CHGIS,小店,Xiaodian,1820,1820,POINT,118.62312,32.13279,村镇,cun zhen,hvd_40562,江浦县,Jiangpu Xian
+拜的,2,1416,hvd_1481,http://maps.cga.harvard.edu/tgaz/placename/hvd_1481,CHGIS,拜的,Baide,1820,1820,POINT,90.4287,29.125190000000003,宗,zong,hvd_25016,西藏,Xizang

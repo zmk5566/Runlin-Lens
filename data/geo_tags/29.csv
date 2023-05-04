@@ -1,0 +1,10 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+长江,1,3665,hvd_16879,http://maps.cga.harvard.edu/tgaz/placename/hvd_16879,CHGIS,长江,Changjiang,1820,1820,POINT,113.92055,25.32825,村镇,cun zhen,hvd_9545,韶州府,Shaozhou Fu
+花园,1,5182,hvd_18396,http://maps.cga.harvard.edu/tgaz/placename/hvd_18396,CHGIS,花园,Huayuan,1820,1820,POINT,113.97325,31.248490000000004,村镇,cun zhen,hvd_9611,汉阳府,Hanyang Fu
+龙潭,1,5758,hvd_18972,http://maps.cga.harvard.edu/tgaz/placename/hvd_18972,CHGIS,龙潭,Longtan,1820,1820,POINT,110.53246000000001,27.417920000000002,村镇,cun zhen,hvd_9620,辰州府,Chenzhou Fu
+太阳,1,10137,hvd_23525,http://maps.cga.harvard.edu/tgaz/placename/hvd_23525,CHGIS,太阳,Taiyang,1820,1820,POINT,119.30112,30.194190000000003,村镇,cun zhen,hvd_40100,於潜县,Yuqian Xian
+京师,1,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+永宁,2,3032,hvd_16246,http://maps.cga.harvard.edu/tgaz/placename/hvd_16246,CHGIS,永宁,Yongning,1820,1820,POINT,118.69575,24.67561,村镇,cun zhen,hvd_32094,泉州府,Quanzhou Fu
+永乐,2,7612,hvd_20828,http://maps.cga.harvard.edu/tgaz/placename/hvd_20828,CHGIS,永乐,Yongle,1820,1820,POINT,112.056,36.148,村镇,cun zhen,hvd_9690,平阳府,Pingyang Fu
+三道,5,6578,hvd_19794,http://maps.cga.harvard.edu/tgaz/placename/hvd_19794,CHGIS,三道,Sandao,1820,1820,POINT,109.09618999999999,37.60031,村镇,cun zhen,hvd_9667,榆林府,Yulin Fu
+金东,11,1443,hvd_1508,http://maps.cga.harvard.edu/tgaz/placename/hvd_1508,CHGIS,金东,Jindong,1820,1820,POINT,93.38463,28.975209999999997,宗,zong,hvd_25016,西藏,Xizang

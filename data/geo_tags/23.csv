@@ -1,0 +1,10 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+芜湖县,1,1566,hvd_1674,http://maps.cga.harvard.edu/tgaz/placename/hvd_1674,CHGIS,芜湖县,Wuhu Xian,1820,1820,POINT,118.36261999999999,31.33495,县,xian,hvd_9777,太平府,Taiping Fu
+楼子,1,7394,hvd_20610,http://maps.cga.harvard.edu/tgaz/placename/hvd_20610,CHGIS,楼子,Louzi,1820,1820,POINT,111.24016,39.41059,村镇,cun zhen,hvd_9681,保德州,Baode Zhou
+贵州,1,10922,hvd_25002,http://maps.cga.harvard.edu/tgaz/placename/hvd_25002,CHGIS,贵州,Guizhou,1820,1820,POINT,106.70911000000001,26.580779999999997,省,sheng,\N,\N,\N
+南京,1,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+京师,1,11032,hvd_30032,http://maps.cga.harvard.edu/tgaz/placename/hvd_30032,CHGIS,京师,Jingshi,1425,1440,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
+旧城,2,5805,hvd_19019,http://maps.cga.harvard.edu/tgaz/placename/hvd_19019,CHGIS,旧城,Jiucheng,1820,1820,POINT,117.87732,34.119209999999995,村镇,cun zhen,hvd_9631,徐州府,Xuzhou Fu
+司上,2,6871,hvd_20087,http://maps.cga.harvard.edu/tgaz/placename/hvd_20087,CHGIS,司上,Sishang,1820,1820,POINT,107.88358999999998,32.827729999999995,村镇,cun zhen,hvd_9664,汉中府,Hanzhong Fu
+上楼,2,9121,hvd_22337,http://maps.cga.harvard.edu/tgaz/placename/hvd_22337,CHGIS,上楼,Shanglou,1820,1820,POINT,98.51997,26.04351,村镇,cun zhen,hvd_9750,腾越厅,Tengyue Ting
+安东县,6,696,hvd_761,http://maps.cga.harvard.edu/tgaz/placename/hvd_761,CHGIS,安东县,Andong Xian,1820,1820,POINT,119.26123,33.76637,县,xian,hvd_9632,淮安府,Huai'an Fu

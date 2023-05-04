@@ -1,0 +1,5 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+太平府,1,2046,hvd_9568,http://maps.cga.harvard.edu/tgaz/placename/hvd_9568,CHGIS,太平府,Taiping Fu,1820,1820,POINT,107.3448,22.44625,府,fu,hvd_25055,广西,Guangxi
+太平,1,3704,hvd_16918,http://maps.cga.harvard.edu/tgaz/placename/hvd_16918,CHGIS,太平,Taiping,1820,1820,POINT,113.83549,24.594479999999997,村镇,cun zhen,hvd_9545,韶州府,Shaozhou Fu
+那陈,3,3868,hvd_17082,http://maps.cga.harvard.edu/tgaz/placename/hvd_17082,CHGIS,那陈,Nachen,1820,1820,POINT,108.28277,22.45899,村镇,cun zhen,hvd_9553,廉州府,Lianzhou Fu
+南京,10,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

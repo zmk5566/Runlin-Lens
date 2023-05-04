@@ -1,0 +1,13 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+花桥,1,2985,hvd_16199,http://maps.cga.harvard.edu/tgaz/placename/hvd_16199,CHGIS,花桥,Huaqiao,1820,1820,POINT,118.12326999999999,25.51224,村镇,cun zhen,hvd_32020,永春州,Yongchun Zhou
+西水关,1,3251,hvd_16465,http://maps.cga.harvard.edu/tgaz/placename/hvd_16465,CHGIS,西水关,Xishuiguan,1820,1820,POINT,100.80569,38.3121,村镇,cun zhen,hvd_9532,甘州府,Ganzhou Fu
+京水,1,4884,hvd_18098,http://maps.cga.harvard.edu/tgaz/placename/hvd_18098,CHGIS,京水,Jingshui,1820,1820,POINT,113.65502,34.89696,村镇,cun zhen,hvd_9597,开封府,Kaifeng Fu
+莲花桥,1,5372,hvd_18586,http://maps.cga.harvard.edu/tgaz/placename/hvd_18586,CHGIS,莲花桥,Lianhuaqiao,1820,1820,POINT,115.59482,30.26578,村镇,cun zhen,hvd_9612,黄州府,Huangzhou Fu
+楼子,1,7394,hvd_20610,http://maps.cga.harvard.edu/tgaz/placename/hvd_20610,CHGIS,楼子,Louzi,1820,1820,POINT,111.24016,39.41059,村镇,cun zhen,hvd_9681,保德州,Baode Zhou
+通,1,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+马头,1,9839,hvd_23057,http://maps.cga.harvard.edu/tgaz/placename/hvd_23057,CHGIS,马头,Matou,1820,1820,POINT,116.54525,32.02554,村镇,cun zhen,hvd_9787,六安州,Liu'an Zhou
+黄泥,1,10666,hvd_24054,http://maps.cga.harvard.edu/tgaz/placename/hvd_24054,CHGIS,黄泥,Huangni,1820,1820,POINT,120.81575,30.51888,村镇,cun zhen,hvd_40075,海盐县,Haiyan Xian
+泗州,2,2254,hvd_9783,http://maps.cga.harvard.edu/tgaz/placename/hvd_9783,CHGIS,泗州,Si Zhou,1820,1820,POINT,117.87888000000001,33.47837,直隶州,zhi li zhou,hvd_25018,安徽,Anhui
+莲花,2,4178,hvd_17392,http://maps.cga.harvard.edu/tgaz/placename/hvd_17392,CHGIS,莲花,Lianhua,1820,1820,POINT,110.86473000000001,24.73282,村镇,cun zhen,hvd_9561,平乐府,Pingle Fu
+江都县,5,707,hvd_772,http://maps.cga.harvard.edu/tgaz/placename/hvd_772,CHGIS,江都县,Jiangdu Xian,1820,1820,POINT,119.43718999999999,32.39127,县,xian,hvd_9634,扬州府,Yangzhou Fu
+南京,13,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming

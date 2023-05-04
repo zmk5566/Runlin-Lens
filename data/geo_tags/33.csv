@@ -1,0 +1,17 @@
+city_name,occur_list,SEQ,TGAZ_ID,TGAZ_URI,DATA_SRC,NAME_SIM,NAME_ENG,BEG,END,OBJ_TYPE,X,Y,TYPE_SIM,TYPE_ENG,PARTOF_ID,PARTOF_SIM,PARTOF_ENG
+金东,1,1443,hvd_1508,http://maps.cga.harvard.edu/tgaz/placename/hvd_1508,CHGIS,金东,Jindong,1820,1820,POINT,93.38463,28.975209999999997,宗,zong,hvd_25016,西藏,Xizang
+芜湖县,1,1566,hvd_1674,http://maps.cga.harvard.edu/tgaz/placename/hvd_1674,CHGIS,芜湖县,Wuhu Xian,1820,1820,POINT,118.36261999999999,31.33495,县,xian,hvd_9777,太平府,Taiping Fu
+滁州,1,2257,hvd_9786,http://maps.cga.harvard.edu/tgaz/placename/hvd_9786,CHGIS,滁州,Chu Zhou,1820,1820,POINT,118.30416000000001,32.316990000000004,直隶州,zhi li zhou,hvd_25018,安徽,Anhui
+西湖,1,3132,hvd_16346,http://maps.cga.harvard.edu/tgaz/placename/hvd_16346,CHGIS,西湖,Xihu,1820,1820,POINT,93.69923,40.34418,村镇,cun zhen,hvd_9530,安西州,Anxi Zhou
+白河口,1,5123,hvd_18337,http://maps.cga.harvard.edu/tgaz/placename/hvd_18337,CHGIS,白河口,Baihekou,1820,1820,POINT,110.19753999999999,31.792959999999997,村镇,cun zhen,hvd_9603,郧阳府,Yunyang Fu
+河口,1,5202,hvd_18416,http://maps.cga.harvard.edu/tgaz/placename/hvd_18416,CHGIS,河口,Hekou,1820,1820,POINT,114.42987,31.32377,村镇,cun zhen,hvd_9611,汉阳府,Hanyang Fu
+八角,1,7385,hvd_20601,http://maps.cga.harvard.edu/tgaz/placename/hvd_20601,CHGIS,八角,Bajiao,1820,1820,POINT,111.89599,39.21349,村镇,cun zhen,hvd_9683,宁武府,Ningwu Fu
+乌衣镇,1,9863,hvd_23081,http://maps.cga.harvard.edu/tgaz/placename/hvd_23081,CHGIS,乌衣镇,Wuyizhen,1820,1820,POINT,118.4257,32.214620000000004,村镇,cun zhen,hvd_9786,滁州,Chu Zhou
+龙江关,1,10043,hvd_23431,http://maps.cga.harvard.edu/tgaz/placename/hvd_23431,CHGIS,龙江关,Longjiangguan,1820,1820,POINT,118.71316999999999,32.06661,村镇,cun zhen,hvd_40548,江宁县,Jiangning Xian
+灵隐,1,10062,hvd_23450,http://maps.cga.harvard.edu/tgaz/placename/hvd_23450,CHGIS,灵隐,Lingyin,1820,1820,POINT,120.08273,30.24503,村镇,cun zhen,hvd_40079,钱塘县,Qiantang Xian
+太阳,1,10137,hvd_23525,http://maps.cga.harvard.edu/tgaz/placename/hvd_23525,CHGIS,太阳,Taiyang,1820,1820,POINT,119.30112,30.194190000000003,村镇,cun zhen,hvd_40100,於潜县,Yuqian Xian
+文昌,1,10339,hvd_23727,http://maps.cga.harvard.edu/tgaz/placename/hvd_23727,CHGIS,文昌,Wenchang,1820,1820,POINT,119.19083,29.74029,村镇,cun zhen,hvd_40811,淳安县,Chun'an Xian
+天长县,2,1601,hvd_1709,http://maps.cga.harvard.edu/tgaz/placename/hvd_1709,CHGIS,天长县,Tianchang Xian,1820,1820,POINT,118.99815,32.69052,县,xian,hvd_9783,泗州,Si Zhou
+上楼,2,9121,hvd_22337,http://maps.cga.harvard.edu/tgaz/placename/hvd_22337,CHGIS,上楼,Shanglou,1820,1820,POINT,98.51997,26.04351,村镇,cun zhen,hvd_9750,腾越厅,Tengyue Ting
+通,3,8682,hvd_21898,http://maps.cga.harvard.edu/tgaz/placename/hvd_21898,CHGIS,通,Tong,1820,1820,POINT,77.00258000000001,42.13425,村镇,cun zhen,hvd_9731,伊犁,Yili
+南京,8,11031,hvd_30031,http://maps.cga.harvard.edu/tgaz/placename/hvd_30031,CHGIS,南京,Nanjing,1403,1424,POINT,118.76898999999999,32.05256,京師,jing shi,hvd_113645,明,Ming
